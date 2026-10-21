@@ -1,0 +1,36 @@
+product_id,product_name,category,sub_category,brand,unit_price,unit_cost,supplier,stock_on_hand
+PRD0001,Wireless Earbuds,Electronics,Wireless,Nexora,2499,1799.28,SUP019,814
+PRD0002,Smartphone 5G,Electronics,Smartphone,Volton,24999,21499.14,SUP009,579
+PRD0003,Smart Watch,Electronics,Smart,Kyra,5999,4199.3,SUP015,68
+PRD0004,Bluetooth Speaker,Electronics,Bluetooth,Nexora,3299,2441.26,SUP004,288
+PRD0005,"Laptop 14""",Electronics,Laptop,Kyra,58999,52509.11,SUP023,165
+PRD0006,Power Bank 20000mAh,Electronics,Power,Nexora,1899,1291.32,SUP002,123
+PRD0007,Cotton T-Shirt,Fashion,Cotton,Maroon&Co,699,335.52,SUP007,162
+PRD0008,Denim Jeans,Fashion,Denim,Maroon&Co,1799,935.48,SUP014,166
+PRD0009,Running Shoes,Fashion,Running,Threadco,2999,1649.45,SUP012,178
+PRD0010,Kurta Set,Fashion,Kurta,Maroon&Co,1499,749.5,SUP014,161
+PRD0011,Leather Wallet,Fashion,Leather,Maroon&Co,999,449.55,SUP007,408
+PRD0012,Sunglasses,Fashion,Sunglasses,Vireo,1299,545.58,SUP004,826
+PRD0013,Non-stick Cookware Set,Home & Kitchen,Non-stick,Castella,2799,1735.38,SUP024,214
+PRD0014,LED Table Lamp,Home & Kitchen,LED,Castella,899,521.42,SUP012,888
+PRD0015,Bedsheet Double,Home & Kitchen,Bedsheet,HomeNest,1199,671.44,SUP011,261
+PRD0016,Vacuum Cleaner,Home & Kitchen,Vacuum,Castella,8999,6749.25,SUP004,120
+PRD0017,Storage Organizer,Home & Kitchen,Storage,Lumio,649,350.46,SUP009,511
+PRD0018,Face Serum,Beauty & Personal Care,Face,Verdan,1099,439.6,SUP025,721
+PRD0019,Shampoo 650ml,Beauty & Personal Care,Shampoo,Verdan,549,279.99,SUP004,100
+PRD0020,Perfume 100ml,Beauty & Personal Care,Perfume,Glowlyn,2199,945.57,SUP014,542
+PRD0021,Electric Trimmer,Beauty & Personal Care,Electric,Verdan,1499,974.35,SUP024,215
+PRD0022,Basmati Rice 5kg,Grocery & Staples,Basmati,Farmveda,749,614.18,SUP025,168
+PRD0023,Cold Pressed Oil 1L,Grocery & Staples,Cold,Pureleaf,399,319.2,SUP006,752
+PRD0024,Dry Fruits Pack,Grocery & Staples,Dry,Anaaj,899,683.24,SUP017,494
+PRD0025,Coffee Beans 500g,Grocery & Staples,Coffee,Anaaj,649,454.3,SUP003,273
+PRD0026,Yoga Mat,Sports & Fitness,Yoga,Flexa,1099,659.4,SUP004,346
+PRD0027,Dumbbell Set 10kg,Sports & Fitness,Dumbbell,Flexa,2299,1540.33,SUP004,111
+PRD0028,Cricket Bat,Sports & Fitness,Cricket,Flexa,3499,2414.31,SUP010,615
+PRD0029,Protein Powder 1kg,Sports & Fitness,Protein,Ironwill,2899,1855.36,SUP006,198
+PRD0030,Fiction Bestseller,Books & Stationery,Fiction,Paperly,499,324.35,SUP020,715
+PRD0031,Notebook Pack,Books & Stationery,Notebook,Paperly,299,179.4,SUP019,679
+PRD0032,Gel Pen Set,Books & Stationery,Gel,Inkwell,199,109.45,SUP011,764
+PRD0033,Building Blocks,Toys & Baby,Building,Playora,1299,740.43,SUP004,716
+PRD0034,Soft Toy,Toys & Baby,Soft,Tinytots,799,423.47,SUP004,748
+PRD0035,Baby Diapers Pack,Toys & Baby,Baby,Tinytots,1099,857.22,SUP015,783

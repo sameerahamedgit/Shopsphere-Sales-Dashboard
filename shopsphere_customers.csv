@@ -1,0 +1,621 @@
+customer_id,customer_name,gender,age,age_group,email,phone,city,state,region,customer_segment,loyalty_tier,signup_date,preferred_channel,marketing_opt_in
+CUST00001,Devansh Pillai,Male,53,46-60,devansh.pillai1@mailbox.com,9551631864,Delhi,Delhi,North,Premium,Platinum,2024-09-28,In-Store,Yes
+CUST00002,Neha Das,Female,24,18-25,neha.das2@mailbox.com,9582813204,Bengaluru,Karnataka,South,Regular,Bronze,2023-10-22,Online - Website,No
+CUST00003,Rohan Gupta,Male,40,36-45,rohan.gupta3@mailbox.com,9964508088,Kochi,Kerala,South,Regular,Gold,2025-08-09,Online - Mobile App,No
+CUST00004,Tanvi Singh,Female,27,26-35,tanvi.singh4@mailbox.com,9792343406,Ahmedabad,Gujarat,West,Regular,Bronze,2024-04-13,In-Store,Yes
+CUST00005,Nikhil Joshi,Male,55,46-60,nikhil.joshi5@mailbox.com,9695335113,Hyderabad,Telangana,South,Regular,Bronze,2025-07-01,Online - Mobile App,Yes
+CUST00006,Riya Kulkarni,Female,54,46-60,riya.kulkarni6@mailbox.com,9614526311,Kochi,Kerala,South,VIP,Gold,2024-03-06,Online - Mobile App,No
+CUST00007,Isha Verma,Female,45,36-45,isha.verma7@mailbox.com,9604701957,Guwahati,Assam,East,Premium,Silver,2024-09-29,Online - Website,No
+CUST00008,Diya Das,Female,34,26-35,diya.das8@mailbox.com,9701076435,Patna,Bihar,East,Premium,Platinum,2024-07-12,Online - Mobile App,No
+CUST00009,Shreya Pillai,Female,36,36-45,shreya.pillai9@mailbox.com,9993183547,Patna,Bihar,East,Premium,Silver,2023-07-27,Online - Website,Yes
+CUST00010,Riya Das,Female,34,26-35,riya.das10@mailbox.com,9843725055,Guwahati,Assam,East,VIP,Gold,2023-07-24,Online - Mobile App,Yes
+CUST00011,Priya Agarwal,Female,24,18-25,priya.agarwal11@mailbox.com,9570783219,Pune,Maharashtra,West,Premium,Silver,2025-07-27,In-Store,No
+CUST00012,Neha Patel,Female,59,46-60,neha.patel12@mailbox.com,9386115836,Kolkata,West Bengal,East,Premium,Gold,2023-03-07,In-Store,Yes
+CUST00013,Arjun Nair,Male,55,46-60,arjun.nair13@mailbox.com,9686897113,Bhubaneswar,Odisha,East,VIP,Silver,2024-04-07,Marketplace,Yes
+CUST00014,Meera Reddy,Female,60,46-60,meera.reddy14@mailbox.com,9913532746,Nagpur,Maharashtra,Central,Regular,Bronze,2023-10-02,Online - Mobile App,Yes
+CUST00015,Yash Kulkarni,Male,56,46-60,yash.kulkarni15@mailbox.com,9843616058,Gurugram,Haryana,North,Regular,Bronze,2023-05-15,Online - Mobile App,Yes
+CUST00016,Isha Khan,Female,30,26-35,isha.khan16@mailbox.com,9503733571,Guwahati,Assam,East,Regular,Silver,2024-06-16,Online - Website,Yes
+CUST00017,Aanya Joshi,Female,50,46-60,aanya.joshi17@mailbox.com,9611127328,Hyderabad,Telangana,South,VIP,Platinum,2023-01-27,Online - Mobile App,Yes
+CUST00018,Vivaan Kulkarni,Male,55,46-60,vivaan.kulkarni18@mailbox.com,9657930992,Bhubaneswar,Odisha,East,Regular,Silver,2023-06-07,Online - Website,Yes
+CUST00019,Ishaan Iyer,Male,29,26-35,ishaan.iyer19@mailbox.com,9148572421,Indore,Madhya Pradesh,Central,Regular,Bronze,2025-08-01,In-Store,No
+CUST00020,Rahul Gupta,Male,59,46-60,rahul.gupta20@mailbox.com,9669015044,Patna,Bihar,East,Premium,Platinum,2023-05-13,Online - Website,No
+CUST00021,Isha Patel,Female,23,18-25,isha.patel21@mailbox.com,9511442130,Jaipur,Rajasthan,North,Regular,Bronze,2024-02-29,Online - Mobile App,Yes
+CUST00022,Karthik Menon,Male,46,46-60,karthik.menon22@mailbox.com,9228962426,Chennai,Tamil Nadu,South,Regular,Bronze,2024-05-08,Online - Mobile App,Yes
+CUST00023,Vivaan Gupta,Male,59,46-60,vivaan.gupta23@mailbox.com,9454809561,Bengaluru,Karnataka,South,Regular,Bronze,2024-04-10,Online - Mobile App,No
+CUST00024,Shreya Patel,Female,61,60+,shreya.patel24@mailbox.com,9714537067,Mumbai,Maharashtra,West,Regular,Bronze,2024-07-29,In-Store,Yes
+CUST00025,Saanvi Agarwal,Female,35,26-35,saanvi.agarwal25@mailbox.com,9819737048,Bhopal,Madhya Pradesh,Central,Premium,Gold,2024-07-30,Online - Mobile App,Yes
+CUST00026,Arjun Patel,Male,29,26-35,arjun.patel26@mailbox.com,9793577507,Delhi,Delhi,North,Premium,Gold,2025-01-09,Online - Mobile App,Yes
+CUST00027,Vivaan Khan,Male,44,36-45,vivaan.khan27@mailbox.com,9934060420,Coimbatore,Tamil Nadu,South,Regular,Bronze,2023-01-15,Online - Website,No
+CUST00028,Ishaan Sharma,Male,40,36-45,ishaan.sharma28@mailbox.com,9438201222,Chennai,Tamil Nadu,South,Regular,Silver,2024-08-13,In-Store,Yes
+CUST00029,Riya Verma,Female,45,36-45,riya.verma29@mailbox.com,9825762789,Kochi,Kerala,South,Regular,Bronze,2024-04-18,In-Store,No
+CUST00030,Shreya Bose,Female,65,60+,shreya.bose30@mailbox.com,9867910823,Kochi,Kerala,South,Regular,Silver,2023-03-01,Online - Mobile App,Yes
+CUST00031,Saanvi Reddy,Female,19,18-25,saanvi.reddy31@mailbox.com,9682136465,Chennai,Tamil Nadu,South,Premium,Silver,2025-07-13,Marketplace,Yes
+CUST00032,Vivaan Patel,Male,40,36-45,vivaan.patel32@mailbox.com,9740972993,Nagpur,Maharashtra,Central,Regular,Bronze,2024-06-19,In-Store,Yes
+CUST00033,Yash Nair,Male,44,36-45,yash.nair33@mailbox.com,9811453849,Hyderabad,Telangana,South,Regular,Bronze,2025-03-06,Online - Website,Yes
+CUST00034,Shreya Agarwal,Female,32,26-35,shreya.agarwal34@mailbox.com,9125084757,Indore,Madhya Pradesh,Central,Regular,Bronze,2023-06-01,Online - Website,Yes
+CUST00035,Rohan Nair,Male,59,46-60,rohan.nair35@mailbox.com,9984531678,Bhopal,Madhya Pradesh,Central,Regular,Bronze,2023-02-08,Online - Mobile App,Yes
+CUST00036,Tanvi Singh,Female,48,46-60,tanvi.singh36@mailbox.com,9162595838,Pune,Maharashtra,West,Premium,Bronze,2023-09-06,Marketplace,Yes
+CUST00037,Tanvi Chopra,Female,35,26-35,tanvi.chopra37@mailbox.com,9469032122,Hyderabad,Telangana,South,VIP,Gold,2025-04-28,In-Store,Yes
+CUST00038,Karthik Agarwal,Male,30,26-35,karthik.agarwal38@mailbox.com,9269967130,Patna,Bihar,East,VIP,Platinum,2023-11-16,Online - Mobile App,Yes
+CUST00039,Ananya Pillai,Female,37,36-45,ananya.pillai39@mailbox.com,9500284363,Kolkata,West Bengal,East,Premium,Gold,2023-03-28,Online - Mobile App,Yes
+CUST00040,Diya Sharma,Female,37,36-45,diya.sharma40@mailbox.com,9714856070,Indore,Madhya Pradesh,Central,Regular,Silver,2024-08-19,Online - Website,Yes
+CUST00041,Kavya Patel,Female,39,36-45,kavya.patel41@mailbox.com,9687863301,Guwahati,Assam,East,Regular,Bronze,2024-02-03,Online - Website,Yes
+CUST00042,Meera Patel,Female,42,36-45,meera.patel42@mailbox.com,9302612020,Chennai,Tamil Nadu,South,Regular,Bronze,2023-05-18,Marketplace,Yes
+CUST00043,Shreya Kulkarni,Female,52,46-60,shreya.kulkarni43@mailbox.com,9283486620,Kolkata,West Bengal,East,Regular,Silver,2025-03-06,In-Store,Yes
+CUST00044,Aditya Patel,Male,63,60+,aditya.patel44@mailbox.com,9790850691,Mumbai,Maharashtra,West,Premium,Gold,2025-06-22,In-Store,No
+CUST00045,Kabir Gupta,Male,24,18-25,kabir.gupta45@mailbox.com,9450352551,Indore,Madhya Pradesh,Central,Regular,Silver,2023-05-10,Online - Mobile App,No
+CUST00046,Priya Bose,Female,49,46-60,priya.bose46@mailbox.com,9229856863,Nagpur,Maharashtra,Central,Regular,Bronze,2024-04-30,Online - Mobile App,Yes
+CUST00047,Karthik Joshi,Male,49,46-60,karthik.joshi47@mailbox.com,9935329516,Ahmedabad,Gujarat,West,Regular,Gold,2025-04-07,Online - Mobile App,No
+CUST00048,Rohan Menon,Male,64,60+,rohan.menon48@mailbox.com,9805503213,Guwahati,Assam,East,Regular,Bronze,2025-07-08,In-Store,Yes
+CUST00049,Karthik Mehta,Male,55,46-60,karthik.mehta49@mailbox.com,9509769538,Hyderabad,Telangana,South,Premium,Silver,2025-05-01,Online - Website,Yes
+CUST00050,Tanvi Nair,Female,35,26-35,tanvi.nair50@mailbox.com,9577223641,Kolkata,West Bengal,East,Regular,Silver,2023-11-24,Online - Website,Yes
+CUST00051,Rohan Nair,Male,47,46-60,rohan.nair51@mailbox.com,9779884647,Indore,Madhya Pradesh,Central,Premium,Silver,2024-08-11,Online - Mobile App,Yes
+CUST00052,Shreya Menon,Female,61,60+,shreya.menon52@mailbox.com,9779663885,Coimbatore,Tamil Nadu,South,Regular,Silver,2024-05-21,Marketplace,Yes
+CUST00053,Meera Menon,Female,64,60+,meera.menon53@mailbox.com,9285724570,Hyderabad,Telangana,South,Premium,Bronze,2024-02-14,Online - Website,Yes
+CUST00054,Rohan Menon,Male,20,18-25,rohan.menon54@mailbox.com,9913112567,Patna,Bihar,East,Premium,Gold,2023-01-13,Online - Website,Yes
+CUST00055,Saanvi Singh,Female,35,26-35,saanvi.singh55@mailbox.com,9768753987,Mumbai,Maharashtra,West,Premium,Gold,2024-06-11,Online - Mobile App,Yes
+CUST00056,Kavya Sharma,Female,47,46-60,kavya.sharma56@mailbox.com,9321589095,Delhi,Delhi,North,Regular,Gold,2025-08-23,Online - Mobile App,Yes
+CUST00057,Yash Menon,Male,19,18-25,yash.menon57@mailbox.com,9390849468,Guwahati,Assam,East,Premium,Gold,2023-04-21,Marketplace,Yes
+CUST00058,Kavya Mehta,Female,38,36-45,kavya.mehta58@mailbox.com,9751338562,Patna,Bihar,East,Premium,Silver,2023-12-22,Online - Mobile App,Yes
+CUST00059,Kabir Verma,Male,34,26-35,kabir.verma59@mailbox.com,9998203557,Patna,Bihar,East,Regular,Bronze,2024-01-10,In-Store,Yes
+CUST00060,Nikhil Chopra,Male,22,18-25,nikhil.chopra60@mailbox.com,9879419380,Chennai,Tamil Nadu,South,Regular,Bronze,2024-02-25,In-Store,Yes
+CUST00061,Saanvi Kulkarni,Female,56,46-60,saanvi.kulkarni61@mailbox.com,9449070774,Nagpur,Maharashtra,Central,Regular,Bronze,2024-06-18,Online - Mobile App,Yes
+CUST00062,Vivaan Agarwal,Male,51,46-60,vivaan.agarwal62@mailbox.com,9658927984,Jaipur,Rajasthan,North,Premium,Platinum,2025-09-10,In-Store,Yes
+CUST00063,Meera Sharma,Female,51,46-60,meera.sharma63@mailbox.com,9235812833,Bhubaneswar,Odisha,East,Regular,Bronze,2025-05-26,Online - Mobile App,No
+CUST00064,Nikhil Kulkarni,Male,41,36-45,nikhil.kulkarni64@mailbox.com,9798872740,Gurugram,Haryana,North,Regular,Silver,2023-11-30,Online - Mobile App,Yes
+CUST00065,Isha Agarwal,Female,60,46-60,isha.agarwal65@mailbox.com,9715192193,Gurugram,Haryana,North,Premium,Silver,2025-04-15,Online - Website,Yes
+CUST00066,Kabir Patel,Male,26,26-35,kabir.patel66@mailbox.com,9591015895,Gurugram,Haryana,North,Regular,Bronze,2024-01-01,Online - Website,No
+CUST00067,Shreya Nair,Female,19,18-25,shreya.nair67@mailbox.com,9422818521,Kolkata,West Bengal,East,Premium,Gold,2024-07-13,Online - Website,Yes
+CUST00068,Neha Menon,Female,20,18-25,neha.menon68@mailbox.com,9605557704,Gurugram,Haryana,North,VIP,Gold,2024-06-04,Online - Website,Yes
+CUST00069,Tanvi Bose,Female,23,18-25,tanvi.bose69@mailbox.com,9554021160,Coimbatore,Tamil Nadu,South,Premium,Silver,2023-07-15,In-Store,Yes
+CUST00070,Meera Mehta,Female,45,36-45,meera.mehta70@mailbox.com,9874285591,Patna,Bihar,East,Regular,Bronze,2025-06-10,Online - Mobile App,No
+CUST00071,Saanvi Das,Female,31,26-35,saanvi.das71@mailbox.com,9893551778,Indore,Madhya Pradesh,Central,Regular,Bronze,2025-07-07,Online - Website,No
+CUST00072,Rahul Patel,Male,45,36-45,rahul.patel72@mailbox.com,9132751084,Delhi,Delhi,North,Regular,Silver,2023-07-13,Online - Mobile App,Yes
+CUST00073,Shreya Bose,Female,51,46-60,shreya.bose73@mailbox.com,9594140383,Chennai,Tamil Nadu,South,Premium,Silver,2024-05-03,In-Store,No
+CUST00074,Aditya Reddy,Male,42,36-45,aditya.reddy74@mailbox.com,9753416073,Gurugram,Haryana,North,Regular,Gold,2024-04-11,Online - Mobile App,Yes
+CUST00075,Kavya Singh,Female,40,36-45,kavya.singh75@mailbox.com,9686367659,Mysuru,Karnataka,South,VIP,Silver,2024-04-24,In-Store,Yes
+CUST00076,Diya Bose,Female,51,46-60,diya.bose76@mailbox.com,9585801814,Chennai,Tamil Nadu,South,Regular,Silver,2023-03-13,Online - Mobile App,Yes
+CUST00077,Riya Das,Female,38,36-45,riya.das77@mailbox.com,9244225647,Nagpur,Maharashtra,Central,Regular,Bronze,2025-07-08,Online - Website,Yes
+CUST00078,Kabir Sharma,Male,51,46-60,kabir.sharma78@mailbox.com,9228499758,Pune,Maharashtra,West,Premium,Bronze,2024-09-08,In-Store,No
+CUST00079,Aditya Khan,Male,62,60+,aditya.khan79@mailbox.com,9360415638,Patna,Bihar,East,Regular,Silver,2024-04-24,Online - Mobile App,Yes
+CUST00080,Priya Verma,Female,67,60+,priya.verma80@mailbox.com,9222102904,Patna,Bihar,East,Regular,Bronze,2023-07-13,Online - Mobile App,Yes
+CUST00081,Aarav Kulkarni,Male,68,60+,aarav.kulkarni81@mailbox.com,9250633173,Lucknow,Uttar Pradesh,North,Regular,Bronze,2024-04-21,Online - Website,No
+CUST00082,Arjun Sharma,Male,51,46-60,arjun.sharma82@mailbox.com,9231175587,Hyderabad,Telangana,South,Regular,Bronze,2025-09-03,Online - Mobile App,No
+CUST00083,Kavya Patel,Female,44,36-45,kavya.patel83@mailbox.com,9530481152,Bhubaneswar,Odisha,East,Regular,Bronze,2023-04-19,Marketplace,Yes
+CUST00084,Aditya Pillai,Male,20,18-25,aditya.pillai84@mailbox.com,9334668745,Mysuru,Karnataka,South,VIP,Silver,2023-06-21,In-Store,Yes
+CUST00085,Diya Das,Female,62,60+,diya.das85@mailbox.com,9601412692,Indore,Madhya Pradesh,Central,Premium,Silver,2025-06-22,In-Store,Yes
+CUST00086,Meera Kulkarni,Female,35,26-35,meera.kulkarni86@mailbox.com,9319687184,Pune,Maharashtra,West,Regular,Bronze,2023-03-09,Online - Website,Yes
+CUST00087,Kabir Iyer,Male,52,46-60,kabir.iyer87@mailbox.com,9355538264,Indore,Madhya Pradesh,Central,Regular,Silver,2024-08-20,Online - Mobile App,Yes
+CUST00088,Devansh Chopra,Male,42,36-45,devansh.chopra88@mailbox.com,9696873579,Bhubaneswar,Odisha,East,Regular,Bronze,2024-02-28,Online - Website,Yes
+CUST00089,Ishaan Patel,Male,35,26-35,ishaan.patel89@mailbox.com,9793788417,Indore,Madhya Pradesh,Central,Regular,Silver,2024-02-14,In-Store,Yes
+CUST00090,Vivaan Nair,Male,48,46-60,vivaan.nair90@mailbox.com,9844573155,Bhopal,Madhya Pradesh,Central,Premium,Gold,2025-04-22,Online - Website,No
+CUST00091,Devansh Reddy,Male,62,60+,devansh.reddy91@mailbox.com,9634743654,Gurugram,Haryana,North,Regular,Bronze,2025-09-15,Online - Mobile App,Yes
+CUST00092,Rohan Iyer,Male,42,36-45,rohan.iyer92@mailbox.com,9362807493,Bhopal,Madhya Pradesh,Central,Regular,Bronze,2023-04-29,Marketplace,Yes
+CUST00093,Riya Patel,Female,39,36-45,riya.patel93@mailbox.com,9890536715,Chennai,Tamil Nadu,South,Premium,Bronze,2023-01-30,Online - Website,Yes
+CUST00094,Rahul Kulkarni,Male,48,46-60,rahul.kulkarni94@mailbox.com,9221476936,Jaipur,Rajasthan,North,Regular,Bronze,2024-11-09,Online - Website,Yes
+CUST00095,Isha Menon,Female,27,26-35,isha.menon95@mailbox.com,9509244535,Mysuru,Karnataka,South,Regular,Silver,2025-08-29,Online - Mobile App,Yes
+CUST00096,Diya Mehta,Female,35,26-35,diya.mehta96@mailbox.com,9571135106,Coimbatore,Tamil Nadu,South,Regular,Bronze,2024-01-30,In-Store,No
+CUST00097,Saanvi Das,Female,28,26-35,saanvi.das97@mailbox.com,9209157391,Nagpur,Maharashtra,Central,Regular,Bronze,2023-11-17,Online - Mobile App,Yes
+CUST00098,Nikhil Khan,Male,28,26-35,nikhil.khan98@mailbox.com,9959094667,Kochi,Kerala,South,Regular,Silver,2023-11-30,Online - Website,Yes
+CUST00099,Shreya Agarwal,Female,52,46-60,shreya.agarwal99@mailbox.com,9677913622,Kochi,Kerala,South,Regular,Bronze,2025-07-22,Marketplace,No
+CUST00100,Karthik Mehta,Male,30,26-35,karthik.mehta100@mailbox.com,9422444023,Jaipur,Rajasthan,North,Regular,Bronze,2024-09-28,Online - Website,Yes
+CUST00101,Neha Chopra,Female,20,18-25,neha.chopra101@mailbox.com,9958591062,Patna,Bihar,East,Premium,Gold,2025-01-25,Online - Mobile App,Yes
+CUST00102,Arjun Mehta,Male,36,36-45,arjun.mehta102@mailbox.com,9960132984,Indore,Madhya Pradesh,Central,Premium,Platinum,2024-06-07,In-Store,No
+CUST00103,Ananya Chopra,Female,42,36-45,ananya.chopra103@mailbox.com,9768741166,Guwahati,Assam,East,Regular,Bronze,2024-03-15,In-Store,Yes
+CUST00104,Meera Agarwal,Female,19,18-25,meera.agarwal104@mailbox.com,9214880211,Bhopal,Madhya Pradesh,Central,Regular,Silver,2025-06-04,Online - Website,Yes
+CUST00105,Neha Patel,Female,23,18-25,neha.patel105@mailbox.com,9208983255,Kolkata,West Bengal,East,Regular,Bronze,2024-07-12,Online - Website,Yes
+CUST00106,Rohan Pillai,Male,18,18-25,rohan.pillai106@mailbox.com,9203844809,Delhi,Delhi,North,Regular,Bronze,2025-07-08,In-Store,No
+CUST00107,Neha Menon,Female,53,46-60,neha.menon107@mailbox.com,9621530299,Delhi,Delhi,North,Premium,Gold,2023-07-15,Online - Mobile App,Yes
+CUST00108,Ishaan Nair,Male,53,46-60,ishaan.nair108@mailbox.com,9954335084,Bhubaneswar,Odisha,East,Regular,Silver,2023-04-12,Marketplace,No
+CUST00109,Aarav Das,Male,21,18-25,aarav.das109@mailbox.com,9581917047,Kolkata,West Bengal,East,Premium,Bronze,2024-05-24,Online - Mobile App,No
+CUST00110,Priya Patel,Other,51,46-60,priya.patel110@mailbox.com,9366366831,Kolkata,West Bengal,East,Premium,Silver,2024-07-12,Online - Mobile App,Yes
+CUST00111,Aditya Khan,Male,62,60+,aditya.khan111@mailbox.com,9343127791,Mysuru,Karnataka,South,Premium,Silver,2023-04-15,Online - Mobile App,No
+CUST00112,Rahul Iyer,Male,57,46-60,rahul.iyer112@mailbox.com,9721039711,Bhopal,Madhya Pradesh,Central,Premium,Silver,2024-03-13,Online - Mobile App,No
+CUST00113,Isha Pillai,Female,51,46-60,isha.pillai113@mailbox.com,9594018869,Kolkata,West Bengal,East,Regular,Silver,2023-09-15,Online - Website,No
+CUST00114,Meera Das,Female,34,26-35,meera.das114@mailbox.com,9434247223,Jaipur,Rajasthan,North,Regular,Bronze,2025-09-02,Online - Website,Yes
+CUST00115,Ishaan Singh,Male,60,46-60,ishaan.singh115@mailbox.com,9461249298,Coimbatore,Tamil Nadu,South,Premium,Platinum,2023-05-06,Online - Mobile App,Yes
+CUST00116,Arjun Reddy,Male,61,60+,arjun.reddy116@mailbox.com,9586286931,Hyderabad,Telangana,South,Premium,Platinum,2025-02-12,Online - Mobile App,Yes
+CUST00117,Rohan Chopra,Male,41,36-45,rohan.chopra117@mailbox.com,9543837101,Hyderabad,Telangana,South,Premium,Gold,2023-01-11,Online - Mobile App,Yes
+CUST00118,Saanvi Agarwal,Female,45,36-45,saanvi.agarwal118@mailbox.com,9380919135,Indore,Madhya Pradesh,Central,Premium,Silver,2023-12-05,Online - Mobile App,No
+CUST00119,Saanvi Sharma,Female,21,18-25,saanvi.sharma119@mailbox.com,9860998941,Lucknow,Uttar Pradesh,North,Regular,Bronze,2023-06-30,Online - Mobile App,No
+CUST00120,Neha Reddy,Female,36,36-45,neha.reddy120@mailbox.com,9236299815,Nagpur,Maharashtra,Central,Regular,Silver,2023-02-25,Online - Website,Yes
+CUST00121,Vivaan Reddy,Male,42,36-45,vivaan.reddy121@mailbox.com,9139506878,Ahmedabad,Gujarat,West,VIP,Platinum,2025-01-07,Online - Website,No
+CUST00122,Aanya Khan,Female,68,60+,aanya.khan122@mailbox.com,9573721263,Kolkata,West Bengal,East,VIP,Platinum,2025-05-04,Online - Website,Yes
+CUST00123,Kabir Agarwal,Male,47,46-60,kabir.agarwal123@mailbox.com,9716472975,Jaipur,Rajasthan,North,Regular,Silver,2023-03-12,Online - Mobile App,Yes
+CUST00124,Isha Sharma,Female,45,36-45,isha.sharma124@mailbox.com,9305828981,Chennai,Tamil Nadu,South,Premium,Bronze,2023-05-12,Online - Website,No
+CUST00125,Isha Gupta,Female,19,18-25,isha.gupta125@mailbox.com,9210655916,Coimbatore,Tamil Nadu,South,Regular,Silver,2023-10-30,Online - Website,Yes
+CUST00126,Vivaan Sharma,Male,32,26-35,vivaan.sharma126@mailbox.com,9308761051,Hyderabad,Telangana,South,Regular,Bronze,2024-07-19,Online - Mobile App,Yes
+CUST00127,Diya Agarwal,Female,68,60+,diya.agarwal127@mailbox.com,9941786197,Ahmedabad,Gujarat,West,Premium,Gold,2023-12-23,In-Store,Yes
+CUST00128,Kabir Reddy,Male,30,26-35,kabir.reddy128@mailbox.com,9301503560,Kochi,Kerala,South,Regular,Silver,2024-01-07,In-Store,No
+CUST00129,Rahul Nair,Male,52,46-60,rahul.nair129@mailbox.com,9152845505,Nagpur,Maharashtra,Central,VIP,Platinum,2025-03-28,Marketplace,Yes
+CUST00130,Tanvi Bose,Female,27,26-35,tanvi.bose130@mailbox.com,9388026489,Patna,Bihar,East,Premium,Bronze,2023-11-09,Online - Mobile App,No
+CUST00131,Tanvi Reddy,Female,44,36-45,tanvi.reddy131@mailbox.com,9177139301,Lucknow,Uttar Pradesh,North,Regular,Bronze,2024-11-25,Online - Mobile App,Yes
+CUST00132,Nikhil Verma,Male,30,26-35,nikhil.verma132@mailbox.com,9802404048,Ahmedabad,Gujarat,West,Regular,Bronze,2025-06-16,Online - Website,Yes
+CUST00133,Rohan Gupta,Male,49,46-60,rohan.gupta133@mailbox.com,9659247158,Mumbai,Maharashtra,West,Premium,Silver,2023-09-17,In-Store,No
+CUST00134,Riya Mehta,Female,49,46-60,riya.mehta134@mailbox.com,9835709990,Pune,Maharashtra,West,Regular,Silver,2025-01-04,Online - Mobile App,Yes
+CUST00135,Ananya Joshi,Female,51,46-60,ananya.joshi135@mailbox.com,9469800457,Lucknow,Uttar Pradesh,North,Regular,Bronze,2024-10-11,In-Store,Yes
+CUST00136,Shreya Sharma,Female,56,46-60,shreya.sharma136@mailbox.com,9142430983,Kolkata,West Bengal,East,Regular,Silver,2024-10-20,Online - Mobile App,No
+CUST00137,Vivaan Joshi,Male,59,46-60,vivaan.joshi137@mailbox.com,9322913098,Delhi,Delhi,North,Regular,Bronze,2023-08-19,Online - Website,Yes
+CUST00138,Aanya Reddy,Female,29,26-35,aanya.reddy138@mailbox.com,9522795828,Pune,Maharashtra,West,Premium,Gold,2023-12-26,In-Store,No
+CUST00139,Ishaan Khan,Male,45,36-45,ishaan.khan139@mailbox.com,9697213934,Jaipur,Rajasthan,North,Regular,Bronze,2024-03-08,Online - Mobile App,Yes
+CUST00140,Rohan Gupta,Male,63,60+,rohan.gupta140@mailbox.com,9625805834,Nagpur,Maharashtra,Central,Regular,Silver,2025-02-25,Online - Website,Yes
+CUST00141,Tanvi Singh,Female,29,26-35,tanvi.singh141@mailbox.com,9185062457,Indore,Madhya Pradesh,Central,Regular,Bronze,2023-10-02,Online - Mobile App,Yes
+CUST00142,Saanvi Menon,Female,64,60+,saanvi.menon142@mailbox.com,9983967991,Bhubaneswar,Odisha,East,Premium,Bronze,2023-10-08,Online - Website,Yes
+CUST00143,Karthik Singh,Male,45,36-45,karthik.singh143@mailbox.com,9899659515,Ahmedabad,Gujarat,West,Premium,Platinum,2024-06-07,Online - Mobile App,Yes
+CUST00144,Saanvi Reddy,Female,38,36-45,saanvi.reddy144@mailbox.com,9969626712,Pune,Maharashtra,West,Regular,Bronze,2025-08-29,Online - Mobile App,Yes
+CUST00145,Yash Bose,Male,35,26-35,yash.bose145@mailbox.com,9933459374,Mumbai,Maharashtra,West,Premium,Platinum,2024-08-02,Online - Mobile App,Yes
+CUST00146,Tanvi Iyer,Female,18,18-25,tanvi.iyer146@mailbox.com,9292591485,Indore,Madhya Pradesh,Central,Regular,Silver,2024-02-12,Online - Mobile App,Yes
+CUST00147,Devansh Sharma,Male,63,60+,devansh.sharma147@mailbox.com,9146096833,Indore,Madhya Pradesh,Central,Regular,Bronze,2023-01-17,Online - Mobile App,Yes
+CUST00148,Karthik Verma,Male,21,18-25,karthik.verma148@mailbox.com,9313407468,Mumbai,Maharashtra,West,Regular,Bronze,2025-02-25,In-Store,Yes
+CUST00149,Ishaan Verma,Male,51,46-60,ishaan.verma149@mailbox.com,9640673704,Hyderabad,Telangana,South,Regular,Bronze,2023-11-16,Online - Mobile App,No
+CUST00150,Diya Menon,Female,43,36-45,diya.menon150@mailbox.com,9355867063,Kochi,Kerala,South,Premium,Platinum,2023-11-09,Online - Mobile App,Yes
+CUST00151,Ishaan Pillai,Male,18,18-25,ishaan.pillai151@mailbox.com,9776316233,Bengaluru,Karnataka,South,VIP,Silver,2023-11-09,Online - Website,No
+CUST00152,Arjun Gupta,Male,24,18-25,arjun.gupta152@mailbox.com,9462073922,Bhubaneswar,Odisha,East,VIP,Platinum,2024-05-19,In-Store,Yes
+CUST00153,Aanya Iyer,Female,23,18-25,aanya.iyer153@mailbox.com,9940041593,Gurugram,Haryana,North,Regular,Bronze,2024-12-22,Online - Website,Yes
+CUST00154,Neha Sharma,Female,55,46-60,neha.sharma154@mailbox.com,9863065987,Coimbatore,Tamil Nadu,South,Premium,Gold,2023-06-27,Online - Mobile App,Yes
+CUST00155,Diya Gupta,Female,61,60+,diya.gupta155@mailbox.com,9208185309,Lucknow,Uttar Pradesh,North,Regular,Silver,2024-05-13,Online - Mobile App,Yes
+CUST00156,Diya Nair,Female,36,36-45,diya.nair156@mailbox.com,9625011082,Bhopal,Madhya Pradesh,Central,Premium,Gold,2023-04-19,Marketplace,Yes
+CUST00157,Rohan Singh,Male,43,36-45,rohan.singh157@mailbox.com,9346758866,Mysuru,Karnataka,South,Regular,Bronze,2024-03-09,In-Store,Yes
+CUST00158,Devansh Nair,Male,64,60+,devansh.nair158@mailbox.com,9197819646,Coimbatore,Tamil Nadu,South,Regular,Bronze,2024-07-15,Online - Website,Yes
+CUST00159,Shreya Patel,Female,44,36-45,shreya.patel159@mailbox.com,9524736842,Kochi,Kerala,South,Regular,Silver,2025-02-06,In-Store,Yes
+CUST00160,Aarav Patel,Male,26,26-35,aarav.patel160@mailbox.com,9856103954,Mumbai,Maharashtra,West,Regular,Gold,2025-08-17,In-Store,Yes
+CUST00161,Nikhil Khan,Male,47,46-60,nikhil.khan161@mailbox.com,9843272523,Gurugram,Haryana,North,Regular,Bronze,2025-08-25,Marketplace,No
+CUST00162,Riya Joshi,Female,25,18-25,riya.joshi162@mailbox.com,9682431800,Pune,Maharashtra,West,Regular,Silver,2024-10-24,Marketplace,Yes
+CUST00163,Aanya Khan,Female,21,18-25,aanya.khan163@mailbox.com,9980996296,Delhi,Delhi,North,Regular,Bronze,2024-07-02,Online - Website,Yes
+CUST00164,Ananya Patel,Female,64,60+,ananya.patel164@mailbox.com,9308941762,Kochi,Kerala,South,Regular,Gold,2024-03-23,Marketplace,Yes
+CUST00165,Isha Das,Female,24,18-25,isha.das165@mailbox.com,9839056341,Kochi,Kerala,South,Premium,Gold,2023-05-17,In-Store,Yes
+CUST00166,Vivaan Gupta,Male,20,18-25,vivaan.gupta166@mailbox.com,9121350183,Guwahati,Assam,East,VIP,Gold,2024-04-11,Online - Website,Yes
+CUST00167,Nikhil Chopra,Male,26,26-35,nikhil.chopra167@mailbox.com,9626904543,Nagpur,Maharashtra,Central,VIP,Gold,2023-08-15,Online - Website,Yes
+CUST00168,Rohan Verma,Male,25,18-25,rohan.verma168@mailbox.com,9156107593,Ahmedabad,Gujarat,West,Regular,Gold,2024-01-06,In-Store,No
+CUST00169,Ishaan Kulkarni,Male,48,46-60,ishaan.kulkarni169@mailbox.com,9177954797,Ahmedabad,Gujarat,West,Premium,Platinum,2025-02-21,Marketplace,Yes
+CUST00170,Saanvi Mehta,Female,53,46-60,saanvi.mehta170@mailbox.com,9494237148,Bengaluru,Karnataka,South,Premium,Bronze,2023-12-13,Online - Website,No
+CUST00171,Kavya Sharma,Female,22,18-25,kavya.sharma171@mailbox.com,9144870912,Delhi,Delhi,North,Regular,Bronze,2024-02-01,Online - Website,Yes
+CUST00172,Aditya Joshi,Male,18,18-25,aditya.joshi172@mailbox.com,9495009024,Mumbai,Maharashtra,West,Regular,Bronze,2023-06-12,Marketplace,Yes
+CUST00173,Aditya Bose,Male,25,18-25,aditya.bose173@mailbox.com,9709241257,Delhi,Delhi,North,Premium,Platinum,2023-10-23,Online - Website,Yes
+CUST00174,Kavya Chopra,Female,64,60+,kavya.chopra174@mailbox.com,9222229400,Ahmedabad,Gujarat,West,Premium,Silver,2023-05-16,In-Store,Yes
+CUST00175,Ishaan Pillai,Male,68,60+,ishaan.pillai175@mailbox.com,9671580106,Kochi,Kerala,South,Regular,Silver,2025-08-19,Online - Mobile App,Yes
+CUST00176,Aarav Joshi,Male,51,46-60,aarav.joshi176@mailbox.com,9838646389,Chennai,Tamil Nadu,South,VIP,Gold,2024-02-01,Online - Mobile App,Yes
+CUST00177,Karthik Menon,Male,28,26-35,karthik.menon177@mailbox.com,9759443232,Mysuru,Karnataka,South,Premium,Bronze,2024-12-23,In-Store,No
+CUST00178,Saanvi Bose,Female,65,60+,saanvi.bose178@mailbox.com,9601470731,Bhubaneswar,Odisha,East,Regular,Bronze,2025-04-30,Online - Website,Yes
+CUST00179,Aarav Joshi,Male,47,46-60,aarav.joshi179@mailbox.com,9111537979,Coimbatore,Tamil Nadu,South,Regular,Silver,2024-01-09,Online - Mobile App,Yes
+CUST00180,Nikhil Mehta,Male,61,60+,nikhil.mehta180@mailbox.com,9745967656,Bengaluru,Karnataka,South,Regular,Bronze,2025-03-17,Online - Website,Yes
+CUST00181,Vivaan Sharma,Male,34,26-35,vivaan.sharma181@mailbox.com,9407445373,Nagpur,Maharashtra,Central,Premium,Gold,2023-10-16,Online - Mobile App,Yes
+CUST00182,Aanya Mehta,Female,33,26-35,aanya.mehta182@mailbox.com,9979864113,Bhubaneswar,Odisha,East,Regular,Bronze,2024-07-06,In-Store,Yes
+CUST00183,Rahul Sharma,Male,42,36-45,rahul.sharma183@mailbox.com,9480021627,Patna,Bihar,East,Regular,Bronze,2025-08-24,Online - Website,No
+CUST00184,Neha Agarwal,Female,33,26-35,neha.agarwal184@mailbox.com,9714874008,Guwahati,Assam,East,Regular,Silver,2025-06-30,Online - Mobile App,No
+CUST00185,Rahul Agarwal,Male,63,60+,rahul.agarwal185@mailbox.com,9761987437,Bhubaneswar,Odisha,East,Regular,Bronze,2025-01-13,Online - Mobile App,Yes
+CUST00186,Yash Pillai,Male,19,18-25,yash.pillai186@mailbox.com,9289049421,Nagpur,Maharashtra,Central,Premium,Silver,2023-01-23,In-Store,No
+CUST00187,Aarav Kulkarni,Male,45,36-45,aarav.kulkarni187@mailbox.com,9762107908,Mumbai,Maharashtra,West,VIP,Platinum,2025-04-02,Online - Website,Yes
+CUST00188,Aditya Kulkarni,Male,27,26-35,aditya.kulkarni188@mailbox.com,9396914590,Guwahati,Assam,East,Regular,Silver,2025-01-21,In-Store,Yes
+CUST00189,Neha Bose,Female,28,26-35,neha.bose189@mailbox.com,9774361973,Kolkata,West Bengal,East,VIP,Gold,2023-08-04,Online - Website,Yes
+CUST00190,Karthik Das,Male,41,36-45,karthik.das190@mailbox.com,9995891957,Nagpur,Maharashtra,Central,Regular,Bronze,2024-12-16,Marketplace,No
+CUST00191,Saanvi Khan,Female,43,36-45,saanvi.khan191@mailbox.com,9571603891,Bhubaneswar,Odisha,East,Premium,Gold,2024-11-04,Online - Website,Yes
+CUST00192,Devansh Verma,Male,45,36-45,devansh.verma192@mailbox.com,9857529474,Lucknow,Uttar Pradesh,North,Regular,Bronze,2025-01-16,Online - Mobile App,Yes
+CUST00193,Isha Das,Female,25,18-25,isha.das193@mailbox.com,9284564012,Ahmedabad,Gujarat,West,Regular,Bronze,2025-02-27,In-Store,Yes
+CUST00194,Diya Joshi,Female,65,60+,diya.joshi194@mailbox.com,9924052488,Mumbai,Maharashtra,West,VIP,Platinum,2024-10-15,Online - Mobile App,Yes
+CUST00195,Karthik Khan,Male,54,46-60,karthik.khan195@mailbox.com,9637879861,Jaipur,Rajasthan,North,Regular,Gold,2024-05-22,Online - Website,Yes
+CUST00196,Meera Khan,Female,63,60+,meera.khan196@mailbox.com,9558702146,Coimbatore,Tamil Nadu,South,Regular,Silver,2023-02-05,In-Store,Yes
+CUST00197,Vivaan Iyer,Male,44,36-45,vivaan.iyer197@mailbox.com,9135104670,Chennai,Tamil Nadu,South,Regular,Gold,2023-10-21,In-Store,Yes
+CUST00198,Shreya Agarwal,Female,19,18-25,shreya.agarwal198@mailbox.com,9592161750,Chennai,Tamil Nadu,South,Regular,Silver,2023-02-17,Online - Mobile App,No
+CUST00199,Kabir Agarwal,Male,33,26-35,kabir.agarwal199@mailbox.com,9168698932,Delhi,Delhi,North,VIP,Gold,2025-04-01,In-Store,Yes
+CUST00200,Rahul Sharma,Male,50,46-60,rahul.sharma200@mailbox.com,9882692830,Indore,Madhya Pradesh,Central,Premium,Silver,2024-04-20,In-Store,Yes
+CUST00201,Tanvi Menon,Female,25,18-25,tanvi.menon201@mailbox.com,9717972657,Ahmedabad,Gujarat,West,VIP,Silver,2023-03-05,In-Store,No
+CUST00202,Kabir Bose,Male,49,46-60,kabir.bose202@mailbox.com,9474214666,Chennai,Tamil Nadu,South,Regular,Bronze,2023-12-30,In-Store,Yes
+CUST00203,Isha Iyer,Female,65,60+,isha.iyer203@mailbox.com,9141895548,Pune,Maharashtra,West,Premium,Silver,2024-08-08,In-Store,Yes
+CUST00204,Shreya Iyer,Female,65,60+,shreya.iyer204@mailbox.com,9163464785,Indore,Madhya Pradesh,Central,Premium,Gold,2025-07-10,Online - Website,Yes
+CUST00205,Vivaan Khan,Male,59,46-60,vivaan.khan205@mailbox.com,9510642813,Jaipur,Rajasthan,North,Regular,Silver,2023-08-09,In-Store,No
+CUST00206,Diya Menon,Female,35,26-35,diya.menon206@mailbox.com,9595530797,Guwahati,Assam,East,Regular,Gold,2023-05-25,Online - Mobile App,No
+CUST00207,Ananya Bose,Female,41,36-45,ananya.bose207@mailbox.com,9660420450,Nagpur,Maharashtra,Central,Regular,Silver,2024-01-14,In-Store,No
+CUST00208,Isha Singh,Female,45,36-45,isha.singh208@mailbox.com,9181457877,Jaipur,Rajasthan,North,Regular,Bronze,2025-03-02,Marketplace,No
+CUST00209,Ishaan Bose,Male,41,36-45,ishaan.bose209@mailbox.com,9631307920,Mumbai,Maharashtra,West,Premium,Silver,2023-08-10,In-Store,Yes
+CUST00210,Saanvi Patel,Female,60,46-60,saanvi.patel210@mailbox.com,9229508562,Kolkata,West Bengal,East,Premium,Gold,2024-07-07,In-Store,Yes
+CUST00211,Karthik Iyer,Male,47,46-60,karthik.iyer211@mailbox.com,9584392763,Mysuru,Karnataka,South,Regular,Bronze,2023-10-08,Online - Mobile App,Yes
+CUST00212,Kavya Pillai,Female,37,36-45,kavya.pillai212@mailbox.com,9895785456,Kochi,Kerala,South,Premium,Bronze,2023-01-12,In-Store,No
+CUST00213,Arjun Iyer,Male,45,36-45,arjun.iyer213@mailbox.com,9759879253,Bengaluru,Karnataka,South,Premium,Gold,2023-02-16,Online - Mobile App,Yes
+CUST00214,Kabir Gupta,Male,35,26-35,kabir.gupta214@mailbox.com,9883978632,Bhopal,Madhya Pradesh,Central,Premium,Gold,2025-09-01,Online - Mobile App,No
+CUST00215,Tanvi Das,Female,49,46-60,tanvi.das215@mailbox.com,9256126208,Hyderabad,Telangana,South,Regular,Bronze,2025-07-29,Marketplace,Yes
+CUST00216,Kabir Iyer,Male,18,18-25,kabir.iyer216@mailbox.com,9299163492,Jaipur,Rajasthan,North,Premium,Platinum,2025-07-06,Online - Mobile App,Yes
+CUST00217,Rahul Singh,Male,58,46-60,rahul.singh217@mailbox.com,9600210088,Indore,Madhya Pradesh,Central,Regular,Bronze,2024-01-12,In-Store,No
+CUST00218,Vivaan Kulkarni,Male,54,46-60,vivaan.kulkarni218@mailbox.com,9717295716,Kochi,Kerala,South,Regular,Bronze,2023-09-17,Online - Mobile App,Yes
+CUST00219,Neha Das,Female,49,46-60,neha.das219@mailbox.com,9463859070,Indore,Madhya Pradesh,Central,Premium,Gold,2023-11-21,Online - Mobile App,Yes
+CUST00220,Kabir Pillai,Male,62,60+,kabir.pillai220@mailbox.com,9828488199,Lucknow,Uttar Pradesh,North,VIP,Platinum,2024-11-11,In-Store,No
+CUST00221,Neha Verma,Female,30,26-35,neha.verma221@mailbox.com,9174763036,Indore,Madhya Pradesh,Central,Regular,Bronze,2023-12-14,Online - Mobile App,Yes
+CUST00222,Kavya Das,Female,30,26-35,kavya.das222@mailbox.com,9537196181,Ahmedabad,Gujarat,West,Regular,Bronze,2025-07-08,Online - Mobile App,Yes
+CUST00223,Aarav Iyer,Male,57,46-60,aarav.iyer223@mailbox.com,9158663417,Bhopal,Madhya Pradesh,Central,Regular,Bronze,2023-05-22,Online - Website,Yes
+CUST00224,Rohan Pillai,Male,39,36-45,rohan.pillai224@mailbox.com,9845081556,Pune,Maharashtra,West,Regular,Bronze,2024-06-02,Online - Mobile App,Yes
+CUST00225,Vivaan Chopra,Male,31,26-35,vivaan.chopra225@mailbox.com,9894230674,Bhopal,Madhya Pradesh,Central,VIP,Gold,2024-09-17,In-Store,Yes
+CUST00226,Vivaan Kulkarni,Male,35,26-35,vivaan.kulkarni226@mailbox.com,9327204722,Mysuru,Karnataka,South,Regular,Bronze,2025-01-18,Online - Mobile App,Yes
+CUST00227,Ishaan Kulkarni,Male,67,60+,ishaan.kulkarni227@mailbox.com,9960570838,Guwahati,Assam,East,Regular,Bronze,2024-05-07,In-Store,No
+CUST00228,Kabir Das,Male,66,60+,kabir.das228@mailbox.com,9390336389,Lucknow,Uttar Pradesh,North,Regular,Bronze,2025-09-19,Online - Mobile App,No
+CUST00229,Kavya Kulkarni,Female,35,26-35,kavya.kulkarni229@mailbox.com,9370405314,Patna,Bihar,East,Regular,Bronze,2024-04-03,In-Store,No
+CUST00230,Aarav Menon,Male,31,26-35,aarav.menon230@mailbox.com,9991214256,Mysuru,Karnataka,South,Regular,Bronze,2025-09-17,Online - Website,Yes
+CUST00231,Rohan Iyer,Male,24,18-25,rohan.iyer231@mailbox.com,9784443923,Guwahati,Assam,East,VIP,Gold,2024-06-05,Online - Website,Yes
+CUST00232,Karthik Khan,Male,52,46-60,karthik.khan232@mailbox.com,9510446321,Chennai,Tamil Nadu,South,Regular,Silver,2025-08-23,Online - Mobile App,No
+CUST00233,Aditya Joshi,Male,58,46-60,aditya.joshi233@mailbox.com,9253258699,Gurugram,Haryana,North,Regular,Silver,2023-11-02,Online - Mobile App,No
+CUST00234,Rahul Chopra,Male,52,46-60,rahul.chopra234@mailbox.com,9352654434,Jaipur,Rajasthan,North,Regular,Silver,2023-12-14,Online - Mobile App,No
+CUST00235,Aanya Patel,Female,41,36-45,aanya.patel235@mailbox.com,9256984613,Patna,Bihar,East,Premium,Bronze,2024-12-30,Online - Mobile App,No
+CUST00236,Yash Khan,Male,58,46-60,yash.khan236@mailbox.com,9648649812,Kolkata,West Bengal,East,Regular,Bronze,2025-09-22,Online - Website,Yes
+CUST00237,Aanya Das,Female,41,36-45,aanya.das237@mailbox.com,9452336911,Ahmedabad,Gujarat,West,Regular,Bronze,2025-06-08,Online - Mobile App,Yes
+CUST00238,Kabir Pillai,Male,66,60+,kabir.pillai238@mailbox.com,9282569712,Indore,Madhya Pradesh,Central,Regular,Bronze,2025-08-15,Online - Website,No
+CUST00239,Aarav Pillai,Male,35,26-35,aarav.pillai239@mailbox.com,9324339434,Bhopal,Madhya Pradesh,Central,Regular,Bronze,2024-05-29,Online - Website,No
+CUST00240,Riya Sharma,Female,46,46-60,riya.sharma240@mailbox.com,9496924613,Kolkata,West Bengal,East,Regular,Silver,2023-05-27,Online - Mobile App,No
+CUST00241,Ishaan Bose,Male,23,18-25,ishaan.bose241@mailbox.com,9745401556,Chennai,Tamil Nadu,South,Regular,Bronze,2023-12-25,Marketplace,Yes
+CUST00242,Tanvi Joshi,Female,28,26-35,tanvi.joshi242@mailbox.com,9740663446,Nagpur,Maharashtra,Central,Premium,Gold,2025-05-24,In-Store,No
+CUST00243,Aarav Gupta,Male,46,46-60,aarav.gupta243@mailbox.com,9327245405,Kolkata,West Bengal,East,Regular,Bronze,2024-07-23,Online - Website,Yes
+CUST00244,Arjun Pillai,Male,21,18-25,arjun.pillai244@mailbox.com,9452162179,Mumbai,Maharashtra,West,Regular,Bronze,2024-02-21,In-Store,Yes
+CUST00245,Shreya Agarwal,Female,43,36-45,shreya.agarwal245@mailbox.com,9222443046,Lucknow,Uttar Pradesh,North,Premium,Platinum,2024-04-29,Online - Website,Yes
+CUST00246,Tanvi Patel,Female,20,18-25,tanvi.patel246@mailbox.com,9880989159,Coimbatore,Tamil Nadu,South,Regular,Silver,2024-04-10,In-Store,Yes
+CUST00247,Riya Verma,Female,32,26-35,riya.verma247@mailbox.com,9241400169,Indore,Madhya Pradesh,Central,Regular,Bronze,2024-04-23,Online - Mobile App,No
+CUST00248,Karthik Khan,Male,35,26-35,karthik.khan248@mailbox.com,9320933959,Bengaluru,Karnataka,South,Regular,Silver,2023-01-12,Online - Website,Yes
+CUST00249,Neha Patel,Female,28,26-35,neha.patel249@mailbox.com,9460342740,Kochi,Kerala,South,Regular,Silver,2023-05-20,Marketplace,Yes
+CUST00250,Vivaan Chopra,Male,40,36-45,vivaan.chopra250@mailbox.com,9809748114,Coimbatore,Tamil Nadu,South,Regular,Bronze,2025-03-23,Marketplace,Yes
+CUST00251,Rohan Agarwal,Male,52,46-60,rohan.agarwal251@mailbox.com,9937498173,Ahmedabad,Gujarat,West,Regular,Bronze,2023-12-22,Online - Mobile App,Yes
+CUST00252,Aditya Sharma,Male,23,18-25,aditya.sharma252@mailbox.com,9581335661,Bhubaneswar,Odisha,East,Regular,Silver,2023-08-18,Online - Mobile App,Yes
+CUST00253,Priya Verma,Other,42,36-45,priya.verma253@mailbox.com,9426833071,Delhi,Delhi,North,Regular,Bronze,2024-05-09,In-Store,No
+CUST00254,Kavya Mehta,Female,25,18-25,kavya.mehta254@mailbox.com,9600599489,Patna,Bihar,East,Regular,Silver,2025-03-02,In-Store,No
+CUST00255,Meera Khan,Female,54,46-60,meera.khan255@mailbox.com,9549232714,Gurugram,Haryana,North,Regular,Bronze,2024-12-23,Marketplace,Yes
+CUST00256,Rahul Agarwal,Male,47,46-60,rahul.agarwal256@mailbox.com,9398382018,Bengaluru,Karnataka,South,VIP,Gold,2025-02-02,Online - Website,No
+CUST00257,Rahul Gupta,Male,60,46-60,rahul.gupta257@mailbox.com,9913437692,Lucknow,Uttar Pradesh,North,Premium,Gold,2025-02-20,Online - Website,No
+CUST00258,Ishaan Sharma,Male,23,18-25,ishaan.sharma258@mailbox.com,9229411393,Chennai,Tamil Nadu,South,Regular,Bronze,2025-08-08,In-Store,No
+CUST00259,Vivaan Kulkarni,Male,18,18-25,vivaan.kulkarni259@mailbox.com,9816309907,Indore,Madhya Pradesh,Central,Regular,Bronze,2023-11-15,In-Store,Yes
+CUST00260,Ananya Gupta,Female,19,18-25,ananya.gupta260@mailbox.com,9601490365,Jaipur,Rajasthan,North,Regular,Silver,2024-05-07,Online - Mobile App,No
+CUST00261,Rahul Gupta,Male,40,36-45,rahul.gupta261@mailbox.com,9196426262,Ahmedabad,Gujarat,West,Regular,Bronze,2024-05-06,In-Store,No
+CUST00262,Shreya Patel,Female,61,60+,shreya.patel262@mailbox.com,9560637806,Hyderabad,Telangana,South,Regular,Bronze,2025-09-27,Online - Mobile App,Yes
+CUST00263,Isha Menon,Female,60,46-60,isha.menon263@mailbox.com,9978783451,Pune,Maharashtra,West,Regular,Bronze,2023-03-02,Online - Website,Yes
+CUST00264,Yash Das,Male,45,36-45,yash.das264@mailbox.com,9755933360,Lucknow,Uttar Pradesh,North,Regular,Silver,2024-02-06,Online - Mobile App,No
+CUST00265,Neha Gupta,Female,24,18-25,neha.gupta265@mailbox.com,9708990024,Ahmedabad,Gujarat,West,Regular,Bronze,2025-03-19,Online - Mobile App,Yes
+CUST00266,Riya Gupta,Female,47,46-60,riya.gupta266@mailbox.com,9410790844,Patna,Bihar,East,Regular,Gold,2025-04-25,Online - Mobile App,No
+CUST00267,Rohan Sharma,Male,53,46-60,rohan.sharma267@mailbox.com,9433670150,Pune,Maharashtra,West,Regular,Bronze,2025-03-10,In-Store,No
+CUST00268,Neha Agarwal,Female,40,36-45,neha.agarwal268@mailbox.com,9138442171,Jaipur,Rajasthan,North,Regular,Gold,2023-12-20,Online - Mobile App,Yes
+CUST00269,Saanvi Khan,Female,54,46-60,saanvi.khan269@mailbox.com,9554989231,Mumbai,Maharashtra,West,VIP,Gold,2023-04-13,Online - Website,Yes
+CUST00270,Arjun Singh,Male,20,18-25,arjun.singh270@mailbox.com,9410661993,Lucknow,Uttar Pradesh,North,Regular,Silver,2025-06-16,Online - Mobile App,Yes
+CUST00271,Priya Iyer,Female,66,60+,priya.iyer271@mailbox.com,9741916769,Bengaluru,Karnataka,South,Regular,Bronze,2025-09-08,In-Store,Yes
+CUST00272,Diya Chopra,Female,62,60+,diya.chopra272@mailbox.com,9293633392,Jaipur,Rajasthan,North,VIP,Gold,2024-02-03,Online - Website,Yes
+CUST00273,Shreya Sharma,Female,37,36-45,shreya.sharma273@mailbox.com,9463029202,Bhubaneswar,Odisha,East,Regular,Bronze,2024-05-21,In-Store,Yes
+CUST00274,Kavya Bose,Female,39,36-45,kavya.bose274@mailbox.com,9127232890,Coimbatore,Tamil Nadu,South,Regular,Bronze,2024-10-23,Online - Mobile App,No
+CUST00275,Diya Das,Female,31,26-35,diya.das275@mailbox.com,9694696085,Kolkata,West Bengal,East,Premium,Silver,2023-10-21,Online - Website,Yes
+CUST00276,Priya Agarwal,Female,50,46-60,priya.agarwal276@mailbox.com,9207908632,Lucknow,Uttar Pradesh,North,Regular,Silver,2024-01-30,In-Store,No
+CUST00277,Diya Sharma,Other,38,36-45,diya.sharma277@mailbox.com,9975435547,Mysuru,Karnataka,South,Regular,Bronze,2025-07-26,Online - Website,Yes
+CUST00278,Ishaan Verma,Male,57,46-60,ishaan.verma278@mailbox.com,9627219558,Pune,Maharashtra,West,Regular,Bronze,2024-12-19,In-Store,No
+CUST00279,Ananya Das,Female,20,18-25,ananya.das279@mailbox.com,9843261814,Chennai,Tamil Nadu,South,Regular,Bronze,2023-03-26,Online - Website,Yes
+CUST00280,Ishaan Nair,Male,45,36-45,ishaan.nair280@mailbox.com,9502328499,Pune,Maharashtra,West,Regular,Silver,2023-03-03,In-Store,No
+CUST00281,Karthik Iyer,Male,28,26-35,karthik.iyer281@mailbox.com,9996472134,Gurugram,Haryana,North,VIP,Gold,2024-03-14,Marketplace,No
+CUST00282,Isha Verma,Female,22,18-25,isha.verma282@mailbox.com,9530652577,Mysuru,Karnataka,South,Regular,Silver,2023-07-26,Online - Website,Yes
+CUST00283,Kabir Gupta,Male,20,18-25,kabir.gupta283@mailbox.com,9197778848,Lucknow,Uttar Pradesh,North,Regular,Silver,2023-01-17,In-Store,Yes
+CUST00284,Aanya Chopra,Female,18,18-25,aanya.chopra284@mailbox.com,9795252560,Kochi,Kerala,South,VIP,Gold,2025-05-07,Online - Mobile App,Yes
+CUST00285,Meera Nair,Female,49,46-60,meera.nair285@mailbox.com,9821930143,Indore,Madhya Pradesh,Central,Regular,Platinum,2023-01-22,In-Store,Yes
+CUST00286,Rohan Das,Male,40,36-45,rohan.das286@mailbox.com,9850786833,Kolkata,West Bengal,East,Regular,Gold,2024-03-11,Online - Website,Yes
+CUST00287,Rahul Agarwal,Male,42,36-45,rahul.agarwal287@mailbox.com,9807388050,Delhi,Delhi,North,Regular,Silver,2024-12-22,In-Store,No
+CUST00288,Aditya Singh,Male,48,46-60,aditya.singh288@mailbox.com,9205069107,Guwahati,Assam,East,Premium,Silver,2023-05-20,Online - Mobile App,No
+CUST00289,Meera Nair,Female,28,26-35,meera.nair289@mailbox.com,9710964667,Indore,Madhya Pradesh,Central,Regular,Bronze,2023-02-18,Online - Website,Yes
+CUST00290,Saanvi Patel,Other,32,26-35,saanvi.patel290@mailbox.com,9440690703,Delhi,Delhi,North,Premium,Silver,2025-03-21,Marketplace,No
+CUST00291,Aarav Agarwal,Male,65,60+,aarav.agarwal291@mailbox.com,9909408173,Bengaluru,Karnataka,South,VIP,Platinum,2024-04-06,Online - Mobile App,Yes
+CUST00292,Priya Reddy,Female,56,46-60,priya.reddy292@mailbox.com,9464858638,Nagpur,Maharashtra,Central,Premium,Silver,2023-02-24,Online - Mobile App,No
+CUST00293,Diya Iyer,Female,53,46-60,diya.iyer293@mailbox.com,9780505800,Delhi,Delhi,North,Regular,Bronze,2023-05-24,Online - Mobile App,Yes
+CUST00294,Priya Das,Female,22,18-25,priya.das294@mailbox.com,9298452833,Jaipur,Rajasthan,North,Regular,Bronze,2023-04-24,In-Store,No
+CUST00295,Priya Agarwal,Female,62,60+,priya.agarwal295@mailbox.com,9374096051,Mysuru,Karnataka,South,Regular,Bronze,2024-10-02,Online - Mobile App,Yes
+CUST00296,Devansh Gupta,Male,65,60+,devansh.gupta296@mailbox.com,9735406435,Mysuru,Karnataka,South,Premium,Gold,2023-08-13,In-Store,No
+CUST00297,Yash Khan,Male,55,46-60,yash.khan297@mailbox.com,9103601305,Nagpur,Maharashtra,Central,Regular,Silver,2023-04-15,Online - Mobile App,Yes
+CUST00298,Devansh Bose,Male,36,36-45,devansh.bose298@mailbox.com,9133020742,Bhopal,Madhya Pradesh,Central,Premium,Gold,2023-02-04,In-Store,Yes
+CUST00299,Diya Pillai,Female,65,60+,diya.pillai299@mailbox.com,9134416379,Mumbai,Maharashtra,West,Regular,Gold,2023-12-13,Online - Website,Yes
+CUST00300,Priya Singh,Female,43,36-45,priya.singh300@mailbox.com,9666168059,Gurugram,Haryana,North,Regular,Bronze,2023-10-29,Online - Website,Yes
+CUST00301,Aarav Das,Male,55,46-60,aarav.das301@mailbox.com,9608911427,Kochi,Kerala,South,Regular,Bronze,2023-11-03,In-Store,Yes
+CUST00302,Arjun Singh,Male,21,18-25,arjun.singh302@mailbox.com,9164180942,Kochi,Kerala,South,Regular,Silver,2024-12-26,Online - Website,Yes
+CUST00303,Neha Singh,Female,62,60+,neha.singh303@mailbox.com,9944800228,Bengaluru,Karnataka,South,Regular,Gold,2025-02-13,Online - Website,No
+CUST00304,Nikhil Gupta,Male,18,18-25,nikhil.gupta304@mailbox.com,9203402818,Patna,Bihar,East,Regular,Platinum,2023-04-11,Online - Mobile App,No
+CUST00305,Karthik Patel,Male,54,46-60,karthik.patel305@mailbox.com,9404354070,Gurugram,Haryana,North,Regular,Bronze,2024-08-19,Online - Mobile App,No
+CUST00306,Aditya Mehta,Male,19,18-25,aditya.mehta306@mailbox.com,9105381672,Ahmedabad,Gujarat,West,Premium,Bronze,2024-08-11,In-Store,No
+CUST00307,Nikhil Bose,Male,56,46-60,nikhil.bose307@mailbox.com,9454266887,Pune,Maharashtra,West,Premium,Silver,2024-03-09,Online - Mobile App,Yes
+CUST00308,Priya Reddy,Female,68,60+,priya.reddy308@mailbox.com,9507652439,Lucknow,Uttar Pradesh,North,Regular,Bronze,2025-01-11,Online - Mobile App,No
+CUST00309,Shreya Kulkarni,Female,54,46-60,shreya.kulkarni309@mailbox.com,9394783473,Bhopal,Madhya Pradesh,Central,Regular,Silver,2024-04-15,Online - Mobile App,Yes
+CUST00310,Nikhil Verma,Male,62,60+,nikhil.verma310@mailbox.com,9993951925,Patna,Bihar,East,Premium,Platinum,2023-05-12,Online - Mobile App,Yes
+CUST00311,Shreya Verma,Female,33,26-35,shreya.verma311@mailbox.com,9139929741,Nagpur,Maharashtra,Central,Regular,Silver,2024-07-16,Marketplace,Yes
+CUST00312,Ishaan Singh,Male,20,18-25,ishaan.singh312@mailbox.com,9627077978,Gurugram,Haryana,North,Regular,Gold,2023-12-18,Online - Mobile App,Yes
+CUST00313,Saanvi Sharma,Female,24,18-25,saanvi.sharma313@mailbox.com,9464914767,Hyderabad,Telangana,South,Regular,Silver,2024-06-09,Online - Mobile App,Yes
+CUST00314,Diya Verma,Female,48,46-60,diya.verma314@mailbox.com,9459720837,Lucknow,Uttar Pradesh,North,Premium,Platinum,2023-02-06,Online - Website,Yes
+CUST00315,Shreya Sharma,Female,58,46-60,shreya.sharma315@mailbox.com,9896540903,Guwahati,Assam,East,Premium,Platinum,2024-03-17,Online - Mobile App,Yes
+CUST00316,Meera Khan,Female,44,36-45,meera.khan316@mailbox.com,9638092088,Hyderabad,Telangana,South,Regular,Silver,2024-11-18,Marketplace,Yes
+CUST00317,Tanvi Das,Female,45,36-45,tanvi.das317@mailbox.com,9949954865,Gurugram,Haryana,North,Regular,Bronze,2023-04-19,In-Store,No
+CUST00318,Arjun Singh,Male,23,18-25,arjun.singh318@mailbox.com,9901112671,Mumbai,Maharashtra,West,Regular,Bronze,2023-12-04,Online - Mobile App,Yes
+CUST00319,Priya Chopra,Female,26,26-35,priya.chopra319@mailbox.com,9305293654,Hyderabad,Telangana,South,Regular,Bronze,2024-07-18,Online - Mobile App,Yes
+CUST00320,Devansh Gupta,Male,68,60+,devansh.gupta320@mailbox.com,9998916380,Chennai,Tamil Nadu,South,Premium,Gold,2023-12-11,Online - Mobile App,Yes
+CUST00321,Saanvi Menon,Female,27,26-35,saanvi.menon321@mailbox.com,9883961534,Pune,Maharashtra,West,VIP,Gold,2024-05-18,Marketplace,Yes
+CUST00322,Diya Mehta,Female,22,18-25,diya.mehta322@mailbox.com,9149304262,Delhi,Delhi,North,Regular,Bronze,2024-05-12,In-Store,Yes
+CUST00323,Kavya Pillai,Female,28,26-35,kavya.pillai323@mailbox.com,9963741850,Mysuru,Karnataka,South,Regular,Bronze,2024-10-22,In-Store,No
+CUST00324,Isha Pillai,Female,50,46-60,isha.pillai324@mailbox.com,9763164910,Coimbatore,Tamil Nadu,South,VIP,Platinum,2024-08-20,Online - Website,No
+CUST00325,Arjun Gupta,Male,22,18-25,arjun.gupta325@mailbox.com,9576461534,Delhi,Delhi,North,Regular,Bronze,2024-11-08,Online - Mobile App,No
+CUST00326,Neha Kulkarni,Female,44,36-45,neha.kulkarni326@mailbox.com,9273219200,Hyderabad,Telangana,South,VIP,Gold,2025-07-19,Online - Website,No
+CUST00327,Diya Mehta,Female,62,60+,diya.mehta327@mailbox.com,9999459979,Mysuru,Karnataka,South,Premium,Silver,2025-04-01,In-Store,No
+CUST00328,Riya Singh,Female,59,46-60,riya.singh328@mailbox.com,9550155411,Bhopal,Madhya Pradesh,Central,Regular,Gold,2025-03-01,Online - Website,No
+CUST00329,Kabir Agarwal,Male,35,26-35,kabir.agarwal329@mailbox.com,9785316332,Bhopal,Madhya Pradesh,Central,Regular,Silver,2024-03-03,Online - Website,Yes
+CUST00330,Priya Reddy,Female,54,46-60,priya.reddy330@mailbox.com,9507998193,Kolkata,West Bengal,East,Premium,Silver,2024-06-20,In-Store,No
+CUST00331,Tanvi Singh,Female,22,18-25,tanvi.singh331@mailbox.com,9319926547,Mumbai,Maharashtra,West,VIP,Platinum,2025-02-23,Online - Mobile App,No
+CUST00332,Ishaan Chopra,Male,47,46-60,ishaan.chopra332@mailbox.com,9859425104,Indore,Madhya Pradesh,Central,Regular,Bronze,2025-01-27,In-Store,No
+CUST00333,Kabir Reddy,Male,45,36-45,kabir.reddy333@mailbox.com,9434052674,Bhubaneswar,Odisha,East,Regular,Gold,2024-08-02,Online - Mobile App,Yes
+CUST00334,Kavya Reddy,Female,45,36-45,kavya.reddy334@mailbox.com,9810314350,Guwahati,Assam,East,Regular,Bronze,2023-02-01,Online - Website,Yes
+CUST00335,Vivaan Sharma,Male,35,26-35,vivaan.sharma335@mailbox.com,9711173262,Mumbai,Maharashtra,West,Regular,Bronze,2025-04-13,Online - Website,Yes
+CUST00336,Saanvi Nair,Female,36,36-45,saanvi.nair336@mailbox.com,9195057637,Nagpur,Maharashtra,Central,Regular,Silver,2023-07-03,Online - Website,Yes
+CUST00337,Karthik Khan,Male,42,36-45,karthik.khan337@mailbox.com,9120796963,Chennai,Tamil Nadu,South,Regular,Silver,2024-06-27,Online - Mobile App,No
+CUST00338,Priya Bose,Other,32,26-35,priya.bose338@mailbox.com,9216162207,Kochi,Kerala,South,Regular,Silver,2025-02-28,Online - Mobile App,Yes
+CUST00339,Nikhil Reddy,Male,39,36-45,nikhil.reddy339@mailbox.com,9425628451,Mysuru,Karnataka,South,Regular,Gold,2023-06-06,Online - Website,Yes
+CUST00340,Vivaan Kulkarni,Male,52,46-60,vivaan.kulkarni340@mailbox.com,9722843916,Chennai,Tamil Nadu,South,Regular,Bronze,2023-12-10,Online - Website,Yes
+CUST00341,Aarav Bose,Male,18,18-25,aarav.bose341@mailbox.com,9180830909,Kolkata,West Bengal,East,Regular,Gold,2024-10-06,In-Store,Yes
+CUST00342,Rohan Kulkarni,Male,54,46-60,rohan.kulkarni342@mailbox.com,9826733485,Indore,Madhya Pradesh,Central,Premium,Gold,2025-05-31,Online - Website,Yes
+CUST00343,Aditya Chopra,Male,44,36-45,aditya.chopra343@mailbox.com,9695163826,Patna,Bihar,East,Regular,Silver,2025-07-10,Online - Website,Yes
+CUST00344,Devansh Joshi,Male,32,26-35,devansh.joshi344@mailbox.com,9147839433,Nagpur,Maharashtra,Central,Regular,Silver,2023-01-28,Marketplace,Yes
+CUST00345,Diya Kulkarni,Female,40,36-45,diya.kulkarni345@mailbox.com,9401246427,Bhopal,Madhya Pradesh,Central,Regular,Bronze,2025-01-16,Online - Mobile App,Yes
+CUST00346,Priya Singh,Female,23,18-25,priya.singh346@mailbox.com,9705797928,Indore,Madhya Pradesh,Central,Regular,Silver,2024-02-05,Online - Mobile App,Yes
+CUST00347,Vivaan Gupta,Male,53,46-60,vivaan.gupta347@mailbox.com,9222876074,Gurugram,Haryana,North,Regular,Platinum,2023-07-24,In-Store,Yes
+CUST00348,Saanvi Das,Female,35,26-35,saanvi.das348@mailbox.com,9164526486,Kochi,Kerala,South,Premium,Gold,2023-01-21,In-Store,No
+CUST00349,Kabir Pillai,Male,35,26-35,kabir.pillai349@mailbox.com,9918193603,Kolkata,West Bengal,East,Premium,Platinum,2023-07-05,In-Store,Yes
+CUST00350,Neha Bose,Female,61,60+,neha.bose350@mailbox.com,9735810029,Bengaluru,Karnataka,South,Premium,Platinum,2024-12-26,Online - Website,Yes
+CUST00351,Aanya Menon,Female,57,46-60,aanya.menon351@mailbox.com,9138397503,Nagpur,Maharashtra,Central,Regular,Bronze,2023-04-27,Online - Website,No
+CUST00352,Vivaan Nair,Male,32,26-35,vivaan.nair352@mailbox.com,9808267988,Patna,Bihar,East,Regular,Silver,2025-03-12,Online - Website,No
+CUST00353,Kavya Chopra,Female,68,60+,kavya.chopra353@mailbox.com,9516028525,Guwahati,Assam,East,Regular,Bronze,2024-11-01,Online - Website,No
+CUST00354,Karthik Singh,Male,57,46-60,karthik.singh354@mailbox.com,9842834869,Coimbatore,Tamil Nadu,South,Regular,Bronze,2025-09-26,Marketplace,No
+CUST00355,Yash Patel,Male,25,18-25,yash.patel355@mailbox.com,9224369766,Bhopal,Madhya Pradesh,Central,Premium,Silver,2024-08-14,Online - Website,Yes
+CUST00356,Riya Verma,Female,59,46-60,riya.verma356@mailbox.com,9620818534,Hyderabad,Telangana,South,Regular,Gold,2025-05-09,In-Store,Yes
+CUST00357,Kavya Gupta,Female,40,36-45,kavya.gupta357@mailbox.com,9104107614,Delhi,Delhi,North,Regular,Silver,2024-07-17,Online - Mobile App,No
+CUST00358,Aditya Gupta,Male,22,18-25,aditya.gupta358@mailbox.com,9669112150,Mumbai,Maharashtra,West,Regular,Silver,2023-11-06,Online - Mobile App,No
+CUST00359,Aditya Agarwal,Male,68,60+,aditya.agarwal359@mailbox.com,9257559105,Chennai,Tamil Nadu,South,Regular,Bronze,2023-03-15,Online - Mobile App,No
+CUST00360,Priya Patel,Female,62,60+,priya.patel360@mailbox.com,9819693483,Patna,Bihar,East,Regular,Bronze,2024-05-01,In-Store,No
+CUST00361,Rohan Reddy,Male,64,60+,rohan.reddy361@mailbox.com,9625777285,Jaipur,Rajasthan,North,Premium,Gold,2024-01-19,Online - Mobile App,Yes
+CUST00362,Arjun Patel,Male,67,60+,arjun.patel362@mailbox.com,9466632531,Ahmedabad,Gujarat,West,Regular,Silver,2025-07-16,In-Store,Yes
+CUST00363,Tanvi Menon,Female,60,46-60,tanvi.menon363@mailbox.com,9260661721,Mumbai,Maharashtra,West,Premium,Bronze,2025-09-10,In-Store,No
+CUST00364,Shreya Patel,Female,44,36-45,shreya.patel364@mailbox.com,9448230882,Lucknow,Uttar Pradesh,North,Regular,Silver,2023-11-18,Marketplace,Yes
+CUST00365,Kabir Khan,Male,29,26-35,kabir.khan365@mailbox.com,9108150635,Gurugram,Haryana,North,Regular,Bronze,2025-09-14,Online - Website,No
+CUST00366,Vivaan Nair,Male,67,60+,vivaan.nair366@mailbox.com,9418742957,Bhopal,Madhya Pradesh,Central,Regular,Bronze,2023-04-05,Online - Website,No
+CUST00367,Rahul Gupta,Male,65,60+,rahul.gupta367@mailbox.com,9273210007,Guwahati,Assam,East,VIP,Gold,2025-01-26,Online - Mobile App,No
+CUST00368,Karthik Khan,Male,29,26-35,karthik.khan368@mailbox.com,9639224182,Guwahati,Assam,East,Regular,Silver,2023-06-28,Online - Website,Yes
+CUST00369,Riya Agarwal,Female,34,26-35,riya.agarwal369@mailbox.com,9567330863,Pune,Maharashtra,West,Regular,Silver,2023-01-19,In-Store,Yes
+CUST00370,Aarav Gupta,Male,38,36-45,aarav.gupta370@mailbox.com,9831049310,Coimbatore,Tamil Nadu,South,Regular,Silver,2023-12-16,Online - Website,Yes
+CUST00371,Saanvi Joshi,Female,56,46-60,saanvi.joshi371@mailbox.com,9725544029,Mysuru,Karnataka,South,Regular,Bronze,2023-08-31,In-Store,Yes
+CUST00372,Arjun Khan,Male,18,18-25,arjun.khan372@mailbox.com,9577229426,Chennai,Tamil Nadu,South,Regular,Bronze,2023-07-03,Online - Mobile App,Yes
+CUST00373,Arjun Verma,Male,68,60+,arjun.verma373@mailbox.com,9196855563,Chennai,Tamil Nadu,South,Regular,Silver,2024-02-27,Online - Mobile App,Yes
+CUST00374,Kabir Iyer,Male,44,36-45,kabir.iyer374@mailbox.com,9496607392,Nagpur,Maharashtra,Central,VIP,Gold,2025-08-02,Online - Website,Yes
+CUST00375,Karthik Gupta,Male,24,18-25,karthik.gupta375@mailbox.com,9906298118,Hyderabad,Telangana,South,Regular,Silver,2025-02-07,Online - Mobile App,Yes
+CUST00376,Rohan Verma,Male,31,26-35,rohan.verma376@mailbox.com,9208179844,Kolkata,West Bengal,East,Regular,Bronze,2023-08-13,Online - Website,No
+CUST00377,Yash Khan,Male,49,46-60,yash.khan377@mailbox.com,9206633833,Coimbatore,Tamil Nadu,South,Premium,Gold,2024-11-21,Online - Mobile App,Yes
+CUST00378,Ishaan Mehta,Male,34,26-35,ishaan.mehta378@mailbox.com,9318220746,Mumbai,Maharashtra,West,Premium,Silver,2025-06-18,Online - Website,No
+CUST00379,Kabir Chopra,Male,39,36-45,kabir.chopra379@mailbox.com,9111609060,Coimbatore,Tamil Nadu,South,Premium,Silver,2023-01-05,Online - Website,No
+CUST00380,Aarav Reddy,Male,24,18-25,aarav.reddy380@mailbox.com,9241259955,Lucknow,Uttar Pradesh,North,Regular,Silver,2023-11-14,In-Store,Yes
+CUST00381,Aarav Iyer,Male,42,36-45,aarav.iyer381@mailbox.com,9791747869,Patna,Bihar,East,VIP,Gold,2023-06-06,In-Store,No
+CUST00382,Tanvi Chopra,Other,65,60+,tanvi.chopra382@mailbox.com,9433843226,Indore,Madhya Pradesh,Central,Premium,Platinum,2024-02-07,In-Store,No
+CUST00383,Neha Chopra,Female,49,46-60,neha.chopra383@mailbox.com,9569987806,Ahmedabad,Gujarat,West,Regular,Bronze,2023-01-24,Marketplace,No
+CUST00384,Saanvi Reddy,Other,40,36-45,saanvi.reddy384@mailbox.com,9398345512,Kochi,Kerala,South,Regular,Bronze,2024-06-03,Online - Mobile App,No
+CUST00385,Karthik Das,Male,34,26-35,karthik.das385@mailbox.com,9643552310,Kochi,Kerala,South,Premium,Silver,2025-07-25,Online - Mobile App,Yes
+CUST00386,Riya Mehta,Female,52,46-60,riya.mehta386@mailbox.com,9791143035,Hyderabad,Telangana,South,Premium,Gold,2024-10-25,Marketplace,Yes
+CUST00387,Kabir Khan,Male,30,26-35,kabir.khan387@mailbox.com,9287150114,Kolkata,West Bengal,East,Regular,Silver,2023-07-20,Online - Mobile App,No
+CUST00388,Meera Verma,Female,25,18-25,meera.verma388@mailbox.com,9995931626,Mysuru,Karnataka,South,Regular,Gold,2025-05-25,In-Store,Yes
+CUST00389,Neha Patel,Female,59,46-60,neha.patel389@mailbox.com,9332589022,Mumbai,Maharashtra,West,VIP,Gold,2023-03-07,Online - Mobile App,No
+CUST00390,Ishaan Verma,Male,65,60+,ishaan.verma390@mailbox.com,9913039211,Chennai,Tamil Nadu,South,Regular,Platinum,2023-03-16,In-Store,Yes
+CUST00391,Kabir Iyer,Male,66,60+,kabir.iyer391@mailbox.com,9312531666,Coimbatore,Tamil Nadu,South,Regular,Silver,2025-06-02,In-Store,No
+CUST00392,Tanvi Gupta,Female,20,18-25,tanvi.gupta392@mailbox.com,9660304788,Coimbatore,Tamil Nadu,South,Regular,Bronze,2023-11-02,Online - Mobile App,Yes
+CUST00393,Shreya Singh,Female,66,60+,shreya.singh393@mailbox.com,9249962750,Chennai,Tamil Nadu,South,Regular,Bronze,2023-04-11,Online - Mobile App,Yes
+CUST00394,Aditya Nair,Male,56,46-60,aditya.nair394@mailbox.com,9937609141,Delhi,Delhi,North,Regular,Gold,2025-02-26,Online - Mobile App,Yes
+CUST00395,Kavya Agarwal,Female,51,46-60,kavya.agarwal395@mailbox.com,9676132168,Guwahati,Assam,East,Regular,Bronze,2023-01-25,Online - Website,Yes
+CUST00396,Riya Bose,Female,67,60+,riya.bose396@mailbox.com,9436702336,Indore,Madhya Pradesh,Central,Premium,Gold,2025-04-29,Online - Website,Yes
+CUST00397,Rohan Nair,Male,67,60+,rohan.nair397@mailbox.com,9351684582,Coimbatore,Tamil Nadu,South,VIP,Gold,2023-09-15,In-Store,Yes
+CUST00398,Saanvi Kulkarni,Female,28,26-35,saanvi.kulkarni398@mailbox.com,9400453521,Kochi,Kerala,South,Premium,Gold,2023-09-16,Online - Mobile App,Yes
+CUST00399,Kavya Iyer,Female,62,60+,kavya.iyer399@mailbox.com,9526718764,Indore,Madhya Pradesh,Central,Regular,Silver,2023-01-06,Online - Website,Yes
+CUST00400,Diya Iyer,Female,37,36-45,diya.iyer400@mailbox.com,9255916230,Bhubaneswar,Odisha,East,Regular,Silver,2025-04-20,Online - Mobile App,No
+CUST00401,Meera Gupta,Female,44,36-45,meera.gupta401@mailbox.com,9297711150,Hyderabad,Telangana,South,VIP,Gold,2024-10-21,Online - Website,No
+CUST00402,Ishaan Gupta,Male,45,36-45,ishaan.gupta402@mailbox.com,9159395709,Bhubaneswar,Odisha,East,Regular,Silver,2023-05-20,Online - Website,No
+CUST00403,Ananya Agarwal,Female,38,36-45,ananya.agarwal403@mailbox.com,9331848707,Lucknow,Uttar Pradesh,North,Regular,Bronze,2025-06-23,Online - Website,Yes
+CUST00404,Arjun Bose,Male,64,60+,arjun.bose404@mailbox.com,9693302786,Kochi,Kerala,South,Regular,Gold,2025-07-27,Online - Mobile App,Yes
+CUST00405,Kavya Kulkarni,Female,45,36-45,kavya.kulkarni405@mailbox.com,9283418950,Bengaluru,Karnataka,South,Premium,Gold,2024-03-19,In-Store,No
+CUST00406,Aditya Nair,Male,61,60+,aditya.nair406@mailbox.com,9265410935,Nagpur,Maharashtra,Central,Regular,Silver,2023-02-06,Online - Mobile App,Yes
+CUST00407,Ananya Khan,Female,28,26-35,ananya.khan407@mailbox.com,9197267878,Patna,Bihar,East,Regular,Bronze,2023-10-28,In-Store,No
+CUST00408,Karthik Pillai,Male,62,60+,karthik.pillai408@mailbox.com,9253889071,Hyderabad,Telangana,South,Regular,Bronze,2024-08-27,In-Store,Yes
+CUST00409,Aanya Reddy,Female,36,36-45,aanya.reddy409@mailbox.com,9825075252,Bhubaneswar,Odisha,East,Regular,Bronze,2024-07-11,In-Store,No
+CUST00410,Meera Joshi,Female,51,46-60,meera.joshi410@mailbox.com,9594747483,Pune,Maharashtra,West,Regular,Silver,2023-03-11,Online - Website,Yes
+CUST00411,Nikhil Agarwal,Male,36,36-45,nikhil.agarwal411@mailbox.com,9875441277,Kolkata,West Bengal,East,Regular,Bronze,2024-05-19,Online - Mobile App,Yes
+CUST00412,Aanya Joshi,Female,22,18-25,aanya.joshi412@mailbox.com,9628199531,Bhopal,Madhya Pradesh,Central,Regular,Bronze,2023-10-21,Online - Website,No
+CUST00413,Aditya Khan,Male,57,46-60,aditya.khan413@mailbox.com,9516476939,Nagpur,Maharashtra,Central,Premium,Silver,2024-05-13,In-Store,Yes
+CUST00414,Tanvi Joshi,Female,32,26-35,tanvi.joshi414@mailbox.com,9308512527,Bhubaneswar,Odisha,East,Regular,Silver,2025-06-25,In-Store,Yes
+CUST00415,Karthik Agarwal,Male,59,46-60,karthik.agarwal415@mailbox.com,9780038643,Bhopal,Madhya Pradesh,Central,Regular,Bronze,2023-11-19,Online - Website,No
+CUST00416,Kabir Pillai,Male,21,18-25,kabir.pillai416@mailbox.com,9778377709,Lucknow,Uttar Pradesh,North,Premium,Gold,2023-11-04,Online - Mobile App,No
+CUST00417,Aditya Khan,Male,29,26-35,aditya.khan417@mailbox.com,9573960981,Delhi,Delhi,North,Regular,Bronze,2024-06-09,Online - Mobile App,Yes
+CUST00418,Aarav Joshi,Male,68,60+,aarav.joshi418@mailbox.com,9381835248,Bengaluru,Karnataka,South,Regular,Bronze,2025-08-17,Online - Website,Yes
+CUST00419,Yash Khan,Male,49,46-60,yash.khan419@mailbox.com,9400182222,Chennai,Tamil Nadu,South,Premium,Gold,2024-10-14,Online - Website,Yes
+CUST00420,Kabir Iyer,Male,18,18-25,kabir.iyer420@mailbox.com,9230350595,Coimbatore,Tamil Nadu,South,Premium,Platinum,2023-11-20,Online - Mobile App,Yes
+CUST00421,Karthik Menon,Male,64,60+,karthik.menon421@mailbox.com,9139412759,Coimbatore,Tamil Nadu,South,VIP,Platinum,2025-03-24,In-Store,Yes
+CUST00422,Isha Singh,Female,44,36-45,isha.singh422@mailbox.com,9760396825,Hyderabad,Telangana,South,Regular,Gold,2025-03-08,In-Store,Yes
+CUST00423,Meera Das,Female,66,60+,meera.das423@mailbox.com,9566404326,Pune,Maharashtra,West,Premium,Gold,2024-08-21,Online - Mobile App,Yes
+CUST00424,Isha Agarwal,Female,46,46-60,isha.agarwal424@mailbox.com,9296003570,Coimbatore,Tamil Nadu,South,Premium,Platinum,2025-03-27,Online - Mobile App,Yes
+CUST00425,Saanvi Kulkarni,Female,39,36-45,saanvi.kulkarni425@mailbox.com,9426509895,Pune,Maharashtra,West,Premium,Platinum,2024-03-21,Online - Website,Yes
+CUST00426,Vivaan Joshi,Male,64,60+,vivaan.joshi426@mailbox.com,9746294478,Hyderabad,Telangana,South,Regular,Bronze,2023-10-14,Online - Mobile App,No
+CUST00427,Rahul Kulkarni,Male,40,36-45,rahul.kulkarni427@mailbox.com,9177453301,Bhubaneswar,Odisha,East,Premium,Gold,2023-05-04,Online - Mobile App,No
+CUST00428,Neha Patel,Female,54,46-60,neha.patel428@mailbox.com,9340459761,Patna,Bihar,East,Regular,Bronze,2025-03-29,Online - Website,No
+CUST00429,Rohan Reddy,Male,37,36-45,rohan.reddy429@mailbox.com,9606318832,Indore,Madhya Pradesh,Central,Premium,Silver,2024-06-21,In-Store,Yes
+CUST00430,Karthik Mehta,Male,32,26-35,karthik.mehta430@mailbox.com,9432088429,Lucknow,Uttar Pradesh,North,Premium,Platinum,2023-12-25,Online - Website,Yes
+CUST00431,Ananya Verma,Female,49,46-60,ananya.verma431@mailbox.com,9817268598,Jaipur,Rajasthan,North,Premium,Silver,2024-05-23,In-Store,Yes
+CUST00432,Arjun Joshi,Male,61,60+,arjun.joshi432@mailbox.com,9937911710,Hyderabad,Telangana,South,Regular,Silver,2023-06-16,Online - Mobile App,No
+CUST00433,Devansh Das,Male,22,18-25,devansh.das433@mailbox.com,9238449872,Guwahati,Assam,East,Premium,Gold,2023-01-23,In-Store,No
+CUST00434,Riya Gupta,Female,48,46-60,riya.gupta434@mailbox.com,9506931198,Lucknow,Uttar Pradesh,North,VIP,Gold,2024-03-28,Online - Mobile App,Yes
+CUST00435,Priya Singh,Female,55,46-60,priya.singh435@mailbox.com,9615091583,Mumbai,Maharashtra,West,Regular,Bronze,2023-07-18,Online - Mobile App,No
+CUST00436,Tanvi Reddy,Female,29,26-35,tanvi.reddy436@mailbox.com,9600165745,Bhopal,Madhya Pradesh,Central,Regular,Platinum,2024-12-20,Online - Mobile App,Yes
+CUST00437,Meera Reddy,Female,24,18-25,meera.reddy437@mailbox.com,9606613754,Delhi,Delhi,North,Regular,Bronze,2024-04-23,Online - Mobile App,Yes
+CUST00438,Priya Reddy,Female,64,60+,priya.reddy438@mailbox.com,9313680784,Pune,Maharashtra,West,Regular,Bronze,2023-07-09,Online - Website,Yes
+CUST00439,Aditya Das,Male,33,26-35,aditya.das439@mailbox.com,9246359196,Jaipur,Rajasthan,North,Regular,Bronze,2023-05-15,Online - Mobile App,Yes
+CUST00440,Neha Khan,Female,63,60+,neha.khan440@mailbox.com,9609970911,Mumbai,Maharashtra,West,Regular,Bronze,2024-07-19,Online - Website,Yes
+CUST00441,Ananya Das,Female,23,18-25,ananya.das441@mailbox.com,9260364986,Gurugram,Haryana,North,Regular,Bronze,2023-08-30,Online - Website,Yes
+CUST00442,Ishaan Bose,Male,43,36-45,ishaan.bose442@mailbox.com,9494159510,Mumbai,Maharashtra,West,Regular,Gold,2024-05-16,Online - Mobile App,Yes
+CUST00443,Nikhil Kulkarni,Male,19,18-25,nikhil.kulkarni443@mailbox.com,9475944381,Pune,Maharashtra,West,Premium,Gold,2024-06-10,Online - Mobile App,No
+CUST00444,Devansh Verma,Male,47,46-60,devansh.verma444@mailbox.com,9562167990,Pune,Maharashtra,West,Regular,Silver,2024-08-10,In-Store,Yes
+CUST00445,Rahul Reddy,Male,63,60+,rahul.reddy445@mailbox.com,9602708519,Hyderabad,Telangana,South,Regular,Gold,2023-01-28,Marketplace,Yes
+CUST00446,Aditya Khan,Male,47,46-60,aditya.khan446@mailbox.com,9371467057,Lucknow,Uttar Pradesh,North,Premium,Platinum,2024-02-16,Online - Mobile App,Yes
+CUST00447,Priya Kulkarni,Female,28,26-35,priya.kulkarni447@mailbox.com,9655394977,Jaipur,Rajasthan,North,Regular,Bronze,2024-05-11,Online - Website,Yes
+CUST00448,Meera Kulkarni,Female,47,46-60,meera.kulkarni448@mailbox.com,9991706205,Gurugram,Haryana,North,Regular,Platinum,2023-07-20,Online - Mobile App,Yes
+CUST00449,Devansh Singh,Male,48,46-60,devansh.singh449@mailbox.com,9252795655,Lucknow,Uttar Pradesh,North,Regular,Gold,2024-05-03,Online - Website,Yes
+CUST00450,Isha Menon,Other,39,36-45,isha.menon450@mailbox.com,9197024966,Mysuru,Karnataka,South,Regular,Bronze,2024-11-24,Online - Mobile App,Yes
+CUST00451,Rohan Chopra,Male,19,18-25,rohan.chopra451@mailbox.com,9684663618,Guwahati,Assam,East,Regular,Silver,2023-05-16,Online - Website,Yes
+CUST00452,Rahul Nair,Male,45,36-45,rahul.nair452@mailbox.com,9899554921,Hyderabad,Telangana,South,VIP,Silver,2023-01-08,Online - Mobile App,Yes
+CUST00453,Isha Agarwal,Female,25,18-25,isha.agarwal453@mailbox.com,9204784844,Mumbai,Maharashtra,West,Regular,Bronze,2023-05-19,Marketplace,Yes
+CUST00454,Ishaan Singh,Male,53,46-60,ishaan.singh454@mailbox.com,9164737046,Jaipur,Rajasthan,North,Premium,Silver,2025-02-25,Online - Mobile App,No
+CUST00455,Aarav Kulkarni,Male,24,18-25,aarav.kulkarni455@mailbox.com,9570329212,Bengaluru,Karnataka,South,Regular,Bronze,2024-02-11,Online - Mobile App,Yes
+CUST00456,Nikhil Joshi,Male,43,36-45,nikhil.joshi456@mailbox.com,9389782164,Bhopal,Madhya Pradesh,Central,Regular,Bronze,2024-11-04,In-Store,Yes
+CUST00457,Karthik Chopra,Male,68,60+,karthik.chopra457@mailbox.com,9490174646,Bengaluru,Karnataka,South,Premium,Bronze,2023-04-26,Online - Mobile App,Yes
+CUST00458,Priya Nair,Female,32,26-35,priya.nair458@mailbox.com,9681009468,Nagpur,Maharashtra,Central,Regular,Bronze,2023-08-28,In-Store,No
+CUST00459,Ananya Nair,Female,48,46-60,ananya.nair459@mailbox.com,9576962984,Gurugram,Haryana,North,Regular,Bronze,2025-08-24,Online - Mobile App,Yes
+CUST00460,Devansh Bose,Male,33,26-35,devansh.bose460@mailbox.com,9370399283,Gurugram,Haryana,North,Regular,Bronze,2023-12-11,Online - Mobile App,Yes
+CUST00461,Vivaan Reddy,Male,42,36-45,vivaan.reddy461@mailbox.com,9108016825,Ahmedabad,Gujarat,West,Regular,Silver,2023-09-02,Online - Mobile App,Yes
+CUST00462,Saanvi Patel,Female,53,46-60,saanvi.patel462@mailbox.com,9318769034,Ahmedabad,Gujarat,West,Regular,Bronze,2024-12-23,Online - Website,Yes
+CUST00463,Vivaan Chopra,Male,34,26-35,vivaan.chopra463@mailbox.com,9945903524,Patna,Bihar,East,Regular,Silver,2025-05-26,Online - Website,Yes
+CUST00464,Rohan Kulkarni,Male,60,46-60,rohan.kulkarni464@mailbox.com,9951032231,Mumbai,Maharashtra,West,Premium,Gold,2024-09-07,Online - Website,Yes
+CUST00465,Riya Patel,Female,56,46-60,riya.patel465@mailbox.com,9646648579,Bengaluru,Karnataka,South,Premium,Gold,2024-09-30,In-Store,No
+CUST00466,Arjun Mehta,Male,22,18-25,arjun.mehta466@mailbox.com,9520446106,Chennai,Tamil Nadu,South,Regular,Bronze,2025-02-08,Online - Website,No
+CUST00467,Tanvi Nair,Female,40,36-45,tanvi.nair467@mailbox.com,9751447332,Guwahati,Assam,East,VIP,Platinum,2023-02-20,Online - Website,Yes
+CUST00468,Aarav Pillai,Male,37,36-45,aarav.pillai468@mailbox.com,9935431397,Hyderabad,Telangana,South,Regular,Bronze,2025-02-06,In-Store,No
+CUST00469,Ananya Gupta,Female,60,46-60,ananya.gupta469@mailbox.com,9361333457,Bhubaneswar,Odisha,East,Regular,Gold,2025-08-21,Online - Mobile App,No
+CUST00470,Isha Mehta,Other,25,18-25,isha.mehta470@mailbox.com,9980801751,Nagpur,Maharashtra,Central,Regular,Bronze,2024-05-24,Online - Website,No
+CUST00471,Rahul Bose,Male,30,26-35,rahul.bose471@mailbox.com,9744646143,Bhubaneswar,Odisha,East,Regular,Bronze,2025-08-21,Online - Website,Yes
+CUST00472,Aarav Bose,Male,26,26-35,aarav.bose472@mailbox.com,9440380038,Ahmedabad,Gujarat,West,VIP,Platinum,2023-08-22,In-Store,Yes
+CUST00473,Rohan Pillai,Male,51,46-60,rohan.pillai473@mailbox.com,9350472933,Ahmedabad,Gujarat,West,Premium,Silver,2025-01-16,Marketplace,No
+CUST00474,Isha Joshi,Female,41,36-45,isha.joshi474@mailbox.com,9760408633,Kochi,Kerala,South,Regular,Bronze,2024-08-10,Online - Website,No
+CUST00475,Aanya Gupta,Female,61,60+,aanya.gupta475@mailbox.com,9818700074,Hyderabad,Telangana,South,Premium,Platinum,2024-11-16,Online - Website,Yes
+CUST00476,Kavya Singh,Female,39,36-45,kavya.singh476@mailbox.com,9667641563,Guwahati,Assam,East,Regular,Silver,2023-04-16,Online - Mobile App,Yes
+CUST00477,Aditya Joshi,Male,66,60+,aditya.joshi477@mailbox.com,9137696533,Gurugram,Haryana,North,Regular,Bronze,2025-06-09,Online - Website,No
+CUST00478,Tanvi Bose,Female,66,60+,tanvi.bose478@mailbox.com,9219473473,Mysuru,Karnataka,South,Regular,Bronze,2025-05-26,Online - Website,Yes
+CUST00479,Rohan Bose,Male,19,18-25,rohan.bose479@mailbox.com,9877412439,Bhopal,Madhya Pradesh,Central,VIP,Silver,2023-07-16,In-Store,Yes
+CUST00480,Isha Pillai,Female,62,60+,isha.pillai480@mailbox.com,9760829452,Lucknow,Uttar Pradesh,North,Regular,Silver,2024-02-11,Online - Mobile App,Yes
+CUST00481,Shreya Mehta,Female,31,26-35,shreya.mehta481@mailbox.com,9887357426,Bhubaneswar,Odisha,East,Regular,Bronze,2023-05-20,Online - Mobile App,Yes
+CUST00482,Arjun Joshi,Male,34,26-35,arjun.joshi482@mailbox.com,9710145163,Kochi,Kerala,South,Premium,Silver,2024-08-17,Online - Website,Yes
+CUST00483,Priya Iyer,Female,49,46-60,priya.iyer483@mailbox.com,9463081203,Coimbatore,Tamil Nadu,South,VIP,Platinum,2023-08-09,Online - Mobile App,Yes
+CUST00484,Isha Bose,Female,20,18-25,isha.bose484@mailbox.com,9194474794,Patna,Bihar,East,Regular,Bronze,2024-06-04,Online - Website,Yes
+CUST00485,Meera Reddy,Female,60,46-60,meera.reddy485@mailbox.com,9966859891,Delhi,Delhi,North,Regular,Silver,2023-11-10,Online - Website,Yes
+CUST00486,Diya Chopra,Female,47,46-60,diya.chopra486@mailbox.com,9834184208,Chennai,Tamil Nadu,South,Regular,Silver,2025-05-25,In-Store,Yes
+CUST00487,Rahul Nair,Male,38,36-45,rahul.nair487@mailbox.com,9625310027,Bhubaneswar,Odisha,East,Regular,Bronze,2023-11-07,Online - Mobile App,Yes
+CUST00488,Yash Bose,Male,47,46-60,yash.bose488@mailbox.com,9271147003,Kochi,Kerala,South,Premium,Silver,2025-01-10,Online - Website,No
+CUST00489,Rahul Pillai,Male,44,36-45,rahul.pillai489@mailbox.com,9216654294,Kolkata,West Bengal,East,Regular,Bronze,2024-05-30,Online - Mobile App,Yes
+CUST00490,Priya Joshi,Female,63,60+,priya.joshi490@mailbox.com,9728909565,Chennai,Tamil Nadu,South,Regular,Silver,2024-10-24,Online - Website,No
+CUST00491,Isha Joshi,Female,57,46-60,isha.joshi491@mailbox.com,9155090271,Bhopal,Madhya Pradesh,Central,Regular,Bronze,2024-07-17,In-Store,Yes
+CUST00492,Devansh Mehta,Male,60,46-60,devansh.mehta492@mailbox.com,9109978488,Chennai,Tamil Nadu,South,Regular,Bronze,2024-11-23,Online - Mobile App,Yes
+CUST00493,Yash Joshi,Male,64,60+,yash.joshi493@mailbox.com,9841858272,Patna,Bihar,East,Premium,Gold,2024-12-13,In-Store,No
+CUST00494,Vivaan Iyer,Male,57,46-60,vivaan.iyer494@mailbox.com,9873767608,Bhopal,Madhya Pradesh,Central,Regular,Silver,2023-10-06,Online - Mobile App,No
+CUST00495,Rohan Joshi,Male,42,36-45,rohan.joshi495@mailbox.com,9433007093,Hyderabad,Telangana,South,Regular,Silver,2025-04-11,In-Store,No
+CUST00496,Ananya Singh,Female,26,26-35,ananya.singh496@mailbox.com,9854002845,Mysuru,Karnataka,South,Premium,Gold,2024-08-08,Online - Mobile App,Yes
+CUST00497,Aditya Reddy,Male,40,36-45,aditya.reddy497@mailbox.com,9354213508,Mysuru,Karnataka,South,Premium,Platinum,2025-01-18,Online - Website,Yes
+CUST00498,Tanvi Pillai,Female,31,26-35,tanvi.pillai498@mailbox.com,9775020379,Kolkata,West Bengal,East,Regular,Bronze,2025-06-17,Online - Mobile App,No
+CUST00499,Rohan Menon,Male,67,60+,rohan.menon499@mailbox.com,9877035703,Bhopal,Madhya Pradesh,Central,Regular,Gold,2024-12-06,In-Store,Yes
+CUST00500,Riya Bose,Female,23,18-25,riya.bose500@mailbox.com,9544785113,Delhi,Delhi,North,Regular,Bronze,2025-02-26,Online - Mobile App,Yes
+CUST00501,Vivaan Iyer,Male,33,26-35,vivaan.iyer501@mailbox.com,9456342953,Kolkata,West Bengal,East,Premium,Gold,2024-07-15,Online - Website,No
+CUST00502,Aanya Nair,Female,59,46-60,aanya.nair502@mailbox.com,9440394683,Coimbatore,Tamil Nadu,South,Regular,Bronze,2024-02-06,Online - Website,Yes
+CUST00503,Kabir Das,Male,40,36-45,kabir.das503@mailbox.com,9479458920,Kolkata,West Bengal,East,Premium,Gold,2023-09-02,Online - Mobile App,No
+CUST00504,Meera Singh,Female,38,36-45,meera.singh504@mailbox.com,9449385436,Delhi,Delhi,North,Premium,Bronze,2025-08-25,Online - Mobile App,Yes
+CUST00505,Tanvi Gupta,Female,21,18-25,tanvi.gupta505@mailbox.com,9378047305,Gurugram,Haryana,North,Regular,Bronze,2025-05-05,In-Store,Yes
+CUST00506,Aditya Kulkarni,Male,31,26-35,aditya.kulkarni506@mailbox.com,9658819755,Delhi,Delhi,North,Regular,Gold,2025-08-21,Online - Website,Yes
+CUST00507,Shreya Bose,Female,20,18-25,shreya.bose507@mailbox.com,9738471693,Hyderabad,Telangana,South,Regular,Gold,2025-06-01,Online - Mobile App,Yes
+CUST00508,Tanvi Nair,Female,42,36-45,tanvi.nair508@mailbox.com,9108219652,Delhi,Delhi,North,Regular,Bronze,2024-06-17,Online - Mobile App,Yes
+CUST00509,Kabir Gupta,Male,36,36-45,kabir.gupta509@mailbox.com,9184047952,Patna,Bihar,East,Regular,Bronze,2024-11-09,Online - Mobile App,Yes
+CUST00510,Aarav Das,Male,31,26-35,aarav.das510@mailbox.com,9399977289,Mysuru,Karnataka,South,Regular,Bronze,2024-08-01,Online - Mobile App,Yes
+CUST00511,Isha Kulkarni,Female,22,18-25,isha.kulkarni511@mailbox.com,9282292900,Indore,Madhya Pradesh,Central,Premium,Silver,2025-05-13,In-Store,Yes
+CUST00512,Kabir Das,Male,46,46-60,kabir.das512@mailbox.com,9365675898,Nagpur,Maharashtra,Central,Regular,Bronze,2023-12-31,Online - Mobile App,No
+CUST00513,Aarav Gupta,Male,60,46-60,aarav.gupta513@mailbox.com,9216257354,Mysuru,Karnataka,South,Premium,Gold,2025-08-15,In-Store,Yes
+CUST00514,Aarav Reddy,Male,44,36-45,aarav.reddy514@mailbox.com,9354410744,Ahmedabad,Gujarat,West,Premium,Gold,2025-01-31,Online - Website,Yes
+CUST00515,Ishaan Khan,Male,48,46-60,ishaan.khan515@mailbox.com,9464961720,Mysuru,Karnataka,South,VIP,Gold,2023-08-24,Online - Website,Yes
+CUST00516,Neha Iyer,Female,63,60+,neha.iyer516@mailbox.com,9570791365,Indore,Madhya Pradesh,Central,Regular,Silver,2025-03-05,Online - Website,No
+CUST00517,Rahul Das,Male,38,36-45,rahul.das517@mailbox.com,9158276924,Chennai,Tamil Nadu,South,VIP,Platinum,2025-05-04,Online - Mobile App,Yes
+CUST00518,Kavya Iyer,Female,27,26-35,kavya.iyer518@mailbox.com,9531905838,Indore,Madhya Pradesh,Central,Premium,Silver,2023-05-25,Online - Mobile App,Yes
+CUST00519,Vivaan Mehta,Male,41,36-45,vivaan.mehta519@mailbox.com,9553516730,Bhopal,Madhya Pradesh,Central,Premium,Platinum,2024-01-01,Online - Mobile App,Yes
+CUST00520,Rohan Agarwal,Male,36,36-45,rohan.agarwal520@mailbox.com,9514469228,Nagpur,Maharashtra,Central,Regular,Bronze,2023-08-13,Marketplace,Yes
+CUST00521,Riya Chopra,Female,48,46-60,riya.chopra521@mailbox.com,9116599456,Lucknow,Uttar Pradesh,North,Regular,Bronze,2025-09-10,Online - Website,Yes
+CUST00522,Yash Chopra,Male,46,46-60,yash.chopra522@mailbox.com,9486729448,Ahmedabad,Gujarat,West,Regular,Gold,2023-04-09,Marketplace,No
+CUST00523,Nikhil Pillai,Male,36,36-45,nikhil.pillai523@mailbox.com,9677972048,Kolkata,West Bengal,East,Regular,Bronze,2023-10-04,Online - Website,No
+CUST00524,Riya Agarwal,Female,26,26-35,riya.agarwal524@mailbox.com,9924645836,Mumbai,Maharashtra,West,VIP,Gold,2023-07-01,Online - Mobile App,No
+CUST00525,Priya Joshi,Other,21,18-25,priya.joshi525@mailbox.com,9230069129,Lucknow,Uttar Pradesh,North,Regular,Bronze,2023-09-14,In-Store,Yes
+CUST00526,Rahul Joshi,Male,62,60+,rahul.joshi526@mailbox.com,9385201447,Jaipur,Rajasthan,North,Regular,Silver,2023-04-26,In-Store,No
+CUST00527,Shreya Verma,Female,21,18-25,shreya.verma527@mailbox.com,9953394705,Hyderabad,Telangana,South,Regular,Silver,2025-09-03,In-Store,No
+CUST00528,Yash Das,Male,50,46-60,yash.das528@mailbox.com,9921924650,Bhubaneswar,Odisha,East,Regular,Bronze,2024-09-19,Online - Mobile App,Yes
+CUST00529,Isha Sharma,Female,61,60+,isha.sharma529@mailbox.com,9933421883,Lucknow,Uttar Pradesh,North,Regular,Silver,2023-09-30,In-Store,No
+CUST00530,Ishaan Pillai,Male,33,26-35,ishaan.pillai530@mailbox.com,9391869554,Kolkata,West Bengal,East,VIP,Platinum,2025-07-06,In-Store,Yes
+CUST00531,Devansh Pillai,Male,19,18-25,devansh.pillai531@mailbox.com,9961712738,Kochi,Kerala,South,Regular,Bronze,2023-01-16,Online - Website,Yes
+CUST00532,Tanvi Nair,Female,28,26-35,tanvi.nair532@mailbox.com,9299216816,Ahmedabad,Gujarat,West,Regular,Bronze,2025-02-13,In-Store,Yes
+CUST00533,Arjun Joshi,Male,20,18-25,arjun.joshi533@mailbox.com,9933884414,Delhi,Delhi,North,Regular,Bronze,2024-06-04,In-Store,No
+CUST00534,Aarav Bose,Male,22,18-25,aarav.bose534@mailbox.com,9405466552,Indore,Madhya Pradesh,Central,Premium,Silver,2024-09-25,Online - Website,Yes
+CUST00535,Kavya Sharma,Female,45,36-45,kavya.sharma535@mailbox.com,9259875052,Jaipur,Rajasthan,North,Regular,Bronze,2024-06-22,In-Store,Yes
+CUST00536,Meera Khan,Female,54,46-60,meera.khan536@mailbox.com,9336740217,Gurugram,Haryana,North,Premium,Silver,2024-03-01,Online - Website,No
+CUST00537,Rohan Das,Male,63,60+,rohan.das537@mailbox.com,9941795978,Coimbatore,Tamil Nadu,South,Regular,Silver,2024-10-03,Online - Mobile App,No
+CUST00538,Karthik Kulkarni,Male,23,18-25,karthik.kulkarni538@mailbox.com,9168064324,Ahmedabad,Gujarat,West,Regular,Bronze,2023-05-09,Online - Website,Yes
+CUST00539,Aanya Mehta,Female,20,18-25,aanya.mehta539@mailbox.com,9427334611,Mumbai,Maharashtra,West,Regular,Silver,2023-08-17,Online - Website,Yes
+CUST00540,Aarav Iyer,Male,41,36-45,aarav.iyer540@mailbox.com,9964581371,Lucknow,Uttar Pradesh,North,Premium,Gold,2025-07-11,Online - Website,Yes
+CUST00541,Riya Kulkarni,Female,42,36-45,riya.kulkarni541@mailbox.com,9507966806,Bhubaneswar,Odisha,East,Regular,Silver,2024-07-22,Online - Website,Yes
+CUST00542,Karthik Joshi,Male,23,18-25,karthik.joshi542@mailbox.com,9236457416,Mumbai,Maharashtra,West,Regular,Bronze,2023-05-11,In-Store,Yes
+CUST00543,Tanvi Sharma,Female,38,36-45,tanvi.sharma543@mailbox.com,9434065690,Kolkata,West Bengal,East,Regular,Bronze,2025-06-19,Marketplace,Yes
+CUST00544,Saanvi Joshi,Female,44,36-45,saanvi.joshi544@mailbox.com,9768320370,Indore,Madhya Pradesh,Central,Regular,Bronze,2024-09-24,Online - Website,No
+CUST00545,Shreya Gupta,Other,19,18-25,shreya.gupta545@mailbox.com,9257366554,Hyderabad,Telangana,South,Regular,Silver,2024-02-11,Online - Website,Yes
+CUST00546,Ishaan Patel,Male,26,26-35,ishaan.patel546@mailbox.com,9634286395,Gurugram,Haryana,North,Premium,Bronze,2025-05-24,Online - Website,No
+CUST00547,Arjun Iyer,Male,62,60+,arjun.iyer547@mailbox.com,9870315306,Bengaluru,Karnataka,South,Premium,Gold,2023-06-10,Online - Mobile App,Yes
+CUST00548,Ishaan Bose,Male,58,46-60,ishaan.bose548@mailbox.com,9772513467,Kolkata,West Bengal,East,Regular,Bronze,2025-07-18,Online - Website,Yes
+CUST00549,Aarav Iyer,Male,63,60+,aarav.iyer549@mailbox.com,9213887346,Mysuru,Karnataka,South,Premium,Bronze,2023-08-29,In-Store,Yes
+CUST00550,Yash Singh,Male,57,46-60,yash.singh550@mailbox.com,9997813953,Bhubaneswar,Odisha,East,Regular,Bronze,2024-01-08,Online - Mobile App,No
+CUST00551,Arjun Verma,Male,48,46-60,arjun.verma551@mailbox.com,9750751319,Chennai,Tamil Nadu,South,VIP,Platinum,2024-06-20,Online - Website,Yes
+CUST00552,Vivaan Verma,Male,66,60+,vivaan.verma552@mailbox.com,9895806405,Kochi,Kerala,South,Regular,Bronze,2023-09-17,Online - Website,No
+CUST00553,Saanvi Mehta,Female,38,36-45,saanvi.mehta553@mailbox.com,9213796902,Guwahati,Assam,East,Regular,Bronze,2024-11-02,Online - Mobile App,No
+CUST00554,Isha Menon,Female,27,26-35,isha.menon554@mailbox.com,9238312975,Delhi,Delhi,North,Regular,Bronze,2023-03-13,Online - Mobile App,Yes
+CUST00555,Neha Bose,Female,44,36-45,neha.bose555@mailbox.com,9683613359,Kochi,Kerala,South,Premium,Silver,2024-08-16,Online - Website,Yes
+CUST00556,Aanya Bose,Female,38,36-45,aanya.bose556@mailbox.com,9845650148,Kolkata,West Bengal,East,Regular,Silver,2025-06-12,Marketplace,Yes
+CUST00557,Shreya Sharma,Female,19,18-25,shreya.sharma557@mailbox.com,9972984945,Gurugram,Haryana,North,Regular,Bronze,2023-09-13,Online - Mobile App,Yes
+CUST00558,Neha Joshi,Female,45,36-45,neha.joshi558@mailbox.com,9952199345,Bhubaneswar,Odisha,East,Regular,Gold,2025-08-09,Online - Mobile App,Yes
+CUST00559,Nikhil Singh,Male,32,26-35,nikhil.singh559@mailbox.com,9714004447,Coimbatore,Tamil Nadu,South,Regular,Bronze,2025-05-31,Online - Website,Yes
+CUST00560,Karthik Singh,Male,40,36-45,karthik.singh560@mailbox.com,9393607373,Hyderabad,Telangana,South,Regular,Bronze,2025-02-27,Online - Website,Yes
+CUST00561,Isha Das,Female,68,60+,isha.das561@mailbox.com,9408773192,Chennai,Tamil Nadu,South,Regular,Silver,2025-04-08,Online - Website,Yes
+CUST00562,Shreya Sharma,Female,38,36-45,shreya.sharma562@mailbox.com,9223169973,Nagpur,Maharashtra,Central,Premium,Gold,2023-06-28,Online - Website,No
+CUST00563,Ishaan Joshi,Male,55,46-60,ishaan.joshi563@mailbox.com,9737777136,Ahmedabad,Gujarat,West,Regular,Platinum,2025-05-13,Marketplace,No
+CUST00564,Arjun Singh,Male,32,26-35,arjun.singh564@mailbox.com,9295086638,Pune,Maharashtra,West,VIP,Platinum,2023-05-04,Online - Website,Yes
+CUST00565,Ishaan Pillai,Male,68,60+,ishaan.pillai565@mailbox.com,9540452963,Lucknow,Uttar Pradesh,North,Premium,Bronze,2023-09-26,Marketplace,No
+CUST00566,Arjun Das,Male,56,46-60,arjun.das566@mailbox.com,9429981414,Kochi,Kerala,South,VIP,Gold,2024-11-07,Online - Website,No
+CUST00567,Nikhil Verma,Male,54,46-60,nikhil.verma567@mailbox.com,9927493591,Hyderabad,Telangana,South,Regular,Silver,2023-07-04,In-Store,No
+CUST00568,Yash Chopra,Male,58,46-60,yash.chopra568@mailbox.com,9998402562,Kolkata,West Bengal,East,Regular,Silver,2025-05-10,Online - Website,Yes
+CUST00569,Tanvi Verma,Other,68,60+,tanvi.verma569@mailbox.com,9939878242,Patna,Bihar,East,Regular,Bronze,2023-10-25,Online - Website,Yes
+CUST00570,Devansh Reddy,Male,58,46-60,devansh.reddy570@mailbox.com,9154444153,Bhopal,Madhya Pradesh,Central,Premium,Platinum,2024-10-13,In-Store,Yes
+CUST00571,Neha Patel,Female,20,18-25,neha.patel571@mailbox.com,9420948975,Bhubaneswar,Odisha,East,Premium,Gold,2025-04-17,Marketplace,Yes
+CUST00572,Kavya Joshi,Female,44,36-45,kavya.joshi572@mailbox.com,9396157110,Hyderabad,Telangana,South,Premium,Bronze,2025-09-08,Online - Mobile App,Yes
+CUST00573,Devansh Joshi,Male,55,46-60,devansh.joshi573@mailbox.com,9454938499,Gurugram,Haryana,North,VIP,Platinum,2025-03-16,Online - Mobile App,Yes
+CUST00574,Rohan Nair,Male,61,60+,rohan.nair574@mailbox.com,9257482672,Jaipur,Rajasthan,North,Regular,Bronze,2023-07-26,In-Store,Yes
+CUST00575,Karthik Joshi,Male,28,26-35,karthik.joshi575@mailbox.com,9122436214,Hyderabad,Telangana,South,Regular,Bronze,2025-06-04,In-Store,No
+CUST00576,Nikhil Chopra,Male,36,36-45,nikhil.chopra576@mailbox.com,9220176664,Gurugram,Haryana,North,Regular,Bronze,2025-07-18,Online - Website,Yes
+CUST00577,Karthik Gupta,Male,25,18-25,karthik.gupta577@mailbox.com,9909512604,Coimbatore,Tamil Nadu,South,Regular,Silver,2025-07-15,Online - Mobile App,No
+CUST00578,Kabir Pillai,Male,61,60+,kabir.pillai578@mailbox.com,9828156997,Kochi,Kerala,South,Premium,Gold,2025-04-08,Marketplace,Yes
+CUST00579,Devansh Kulkarni,Male,57,46-60,devansh.kulkarni579@mailbox.com,9920762431,Mysuru,Karnataka,South,Premium,Platinum,2023-04-05,Marketplace,No
+CUST00580,Diya Chopra,Female,66,60+,diya.chopra580@mailbox.com,9442342470,Mumbai,Maharashtra,West,Regular,Bronze,2024-04-01,Online - Mobile App,Yes
+CUST00581,Nikhil Joshi,Male,40,36-45,nikhil.joshi581@mailbox.com,9954279959,Ahmedabad,Gujarat,West,Premium,Gold,2023-08-11,Online - Website,Yes
+CUST00582,Vivaan Agarwal,Male,63,60+,vivaan.agarwal582@mailbox.com,9633859800,Nagpur,Maharashtra,Central,Regular,Bronze,2023-07-20,Online - Website,No
+CUST00583,Shreya Nair,Other,31,26-35,shreya.nair583@mailbox.com,9893905080,Indore,Madhya Pradesh,Central,Premium,Silver,2025-05-30,Marketplace,Yes
+CUST00584,Karthik Menon,Male,32,26-35,karthik.menon584@mailbox.com,9220650929,Hyderabad,Telangana,South,Regular,Silver,2025-08-15,Online - Mobile App,Yes
+CUST00585,Kabir Reddy,Male,39,36-45,kabir.reddy585@mailbox.com,9458838668,Indore,Madhya Pradesh,Central,VIP,Gold,2024-08-14,Online - Mobile App,Yes
+CUST00586,Nikhil Iyer,Male,63,60+,nikhil.iyer586@mailbox.com,9387195333,Ahmedabad,Gujarat,West,Regular,Gold,2024-03-26,Online - Website,Yes
+CUST00587,Nikhil Agarwal,Male,56,46-60,nikhil.agarwal587@mailbox.com,9997692822,Hyderabad,Telangana,South,Regular,Bronze,2025-05-21,Online - Mobile App,No
+CUST00588,Devansh Sharma,Male,33,26-35,devansh.sharma588@mailbox.com,9376353183,Pune,Maharashtra,West,Regular,Bronze,2023-11-27,In-Store,Yes
+CUST00589,Tanvi Bose,Female,37,36-45,tanvi.bose589@mailbox.com,9739843331,Kolkata,West Bengal,East,Premium,Platinum,2025-06-07,Online - Website,Yes
+CUST00590,Arjun Joshi,Male,24,18-25,arjun.joshi590@mailbox.com,9949064571,Mumbai,Maharashtra,West,Premium,Silver,2025-01-22,Online - Website,Yes
+CUST00591,Kabir Joshi,Male,50,46-60,kabir.joshi591@mailbox.com,9567824894,Kochi,Kerala,South,Regular,Gold,2023-08-14,Online - Website,Yes
+CUST00592,Aanya Menon,Other,68,60+,aanya.menon592@mailbox.com,9459143961,Bengaluru,Karnataka,South,VIP,Gold,2025-02-10,Marketplace,Yes
+CUST00593,Neha Khan,Other,54,46-60,neha.khan593@mailbox.com,9575484666,Patna,Bihar,East,Regular,Silver,2023-05-12,Marketplace,Yes
+CUST00594,Ananya Joshi,Other,63,60+,ananya.joshi594@mailbox.com,9458405625,Indore,Madhya Pradesh,Central,Premium,Silver,2023-02-23,Online - Website,No
+CUST00595,Karthik Bose,Male,64,60+,karthik.bose595@mailbox.com,9174011219,Ahmedabad,Gujarat,West,Regular,Bronze,2023-05-03,Online - Website,Yes
+CUST00596,Riya Khan,Female,49,46-60,riya.khan596@mailbox.com,9794250205,Nagpur,Maharashtra,Central,Regular,Bronze,2023-04-05,Online - Website,Yes
+CUST00597,Diya Bose,Female,33,26-35,diya.bose597@mailbox.com,9649380713,Guwahati,Assam,East,Regular,Bronze,2024-03-09,Online - Mobile App,Yes
+CUST00598,Rohan Mehta,Male,19,18-25,rohan.mehta598@mailbox.com,9608013711,Patna,Bihar,East,Regular,Gold,2023-10-27,Online - Mobile App,Yes
+CUST00599,Diya Mehta,Female,28,26-35,diya.mehta599@mailbox.com,9282814051,Bhopal,Madhya Pradesh,Central,Regular,Silver,2025-01-09,In-Store,No
+CUST00600,Devansh Sharma,Male,59,46-60,devansh.sharma600@mailbox.com,9711354994,Kolkata,West Bengal,East,Regular,Gold,2025-01-17,In-Store,Yes
+CUST00601,Devansh Das,Male,23,18-25,devansh.das601@mailbox.com,9739195003,Nagpur,Maharashtra,Central,Regular,Bronze,2023-12-13,In-Store,No
+CUST00602,Kabir Gupta,Male,23,18-25,kabir.gupta602@mailbox.com,9619373729,Guwahati,Assam,East,Regular,Bronze,2024-08-17,In-Store,No
+CUST00603,Kabir Gupta,Male,57,46-60,kabir.gupta603@mailbox.com,9128157491,Lucknow,Uttar Pradesh,North,Regular,Platinum,2025-05-03,Online - Mobile App,Yes
+CUST00604,Aanya Khan,Female,51,46-60,aanya.khan604@mailbox.com,9419187075,Mumbai,Maharashtra,West,Regular,Silver,2024-05-20,In-Store,No
+CUST00605,Aanya Menon,Female,61,60+,aanya.menon605@mailbox.com,9758051673,Gurugram,Haryana,North,Premium,Bronze,2025-03-14,Online - Website,No
+CUST00606,Yash Iyer,Male,43,36-45,yash.iyer606@mailbox.com,9404441851,Hyderabad,Telangana,South,Regular,Silver,2024-06-16,Marketplace,Yes
+CUST00607,Vivaan Agarwal,Male,47,46-60,vivaan.agarwal607@mailbox.com,9951184120,Mysuru,Karnataka,South,Regular,Bronze,2023-08-23,Online - Website,Yes
+CUST00608,Ananya Singh,Female,34,26-35,ananya.singh608@mailbox.com,9689198304,Pune,Maharashtra,West,Regular,Bronze,2025-07-18,In-Store,Yes
+CUST00609,Kabir Bose,Male,57,46-60,kabir.bose609@mailbox.com,9735696887,Lucknow,Uttar Pradesh,North,Regular,Silver,2024-07-15,Online - Mobile App,No
+CUST00610,Tanvi Khan,Female,27,26-35,tanvi.khan610@mailbox.com,9602927504,Hyderabad,Telangana,South,Premium,Silver,2024-10-23,In-Store,No
+CUST00611,Tanvi Das,Female,37,36-45,tanvi.das611@mailbox.com,9910434312,Nagpur,Maharashtra,Central,Premium,Silver,2024-05-10,In-Store,Yes
+CUST00612,Rahul Iyer,Male,36,36-45,rahul.iyer612@mailbox.com,9272693285,Guwahati,Assam,East,Regular,Gold,2023-03-31,In-Store,No
+CUST00613,Karthik Reddy,Male,54,46-60,karthik.reddy613@mailbox.com,9470364595,Jaipur,Rajasthan,North,Regular,Gold,2025-02-23,Online - Website,No
+CUST00614,Nikhil Nair,Male,43,36-45,nikhil.nair614@mailbox.com,9910777640,Bhubaneswar,Odisha,East,Regular,Bronze,2025-09-13,Marketplace,No
+CUST00615,Aanya Patel,Female,39,36-45,aanya.patel615@mailbox.com,9262367214,Kochi,Kerala,South,VIP,Gold,2023-04-19,Online - Website,No
+CUST00616,Karthik Menon,Male,53,46-60,karthik.menon616@mailbox.com,9676686783,Indore,Madhya Pradesh,Central,Premium,Gold,2023-07-31,Online - Mobile App,No
+CUST00617,Devansh Iyer,Male,33,26-35,devansh.iyer617@mailbox.com,9278642012,Delhi,Delhi,North,Regular,Bronze,2023-09-24,In-Store,Yes
+CUST00618,Rahul Iyer,Male,68,60+,rahul.iyer618@mailbox.com,9760578001,Gurugram,Haryana,North,Regular,Bronze,2024-08-04,Online - Website,Yes
+CUST00619,Aanya Kulkarni,Female,34,26-35,aanya.kulkarni619@mailbox.com,9569494835,Bhopal,Madhya Pradesh,Central,Regular,Silver,2023-12-24,Online - Mobile App,No
+CUST00620,Kabir Mehta,Male,50,46-60,kabir.mehta620@mailbox.com,9405036299,Kolkata,West Bengal,East,Regular,Bronze,2024-11-20,Marketplace,No
